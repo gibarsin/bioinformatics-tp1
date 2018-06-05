@@ -34,3 +34,12 @@ en donde <fastaPath\> es el path al archivo de tipo fasta que contiene la secuen
 secuencias obtenidas del ejercicio 1; <isLocal\> es el booleano que decide si ejecuta la consulta sobre una base de 
 datos local (opción no soportada actualmente) o sobre la base de datos púlica de BLAST. El resultado se guardará en un
 archivo con nombre _blast.out_ en el mismo directorio que el archivo de entrada.
+
+Ejercicio 4) En caso de querer preguntar por un pattern en particular, ejecutar:
+```bash
+java -jar target/bio.jar 4 <fastaPath> a <pattern>
+```
+En caso de querer consultar por todos los patterns únicos, ejecutar:
+```bash
+java -jar target/bio.jar 4 <fastaPath> b
+```

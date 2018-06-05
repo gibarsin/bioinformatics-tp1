@@ -19,6 +19,21 @@ public enum Main {
         final var isLocal = Boolean.parseBoolean(args[2]);
         Exercise2.solve(filePath, isLocal);
         break;
+      case 4:
+        final var item = args[2].toLowerCase();
+        switch (item) {
+          case "a":
+            final var pattern = args[3];
+            Exercise4.solveA(filePath, pattern);
+            break;
+          case "b":
+            Exercise4.solveB(filePath);
+            break;
+          default:
+            throw new IllegalArgumentException("Item number must be either A or B");
+        }
+
+        break;
       default:
         throw new IllegalArgumentException("Exercise number must be in range [1,2].");
     }
