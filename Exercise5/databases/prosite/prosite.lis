@@ -1,0 +1,1852 @@
+
+        ######   ######     ###     ####   ####  ######  #######
+         ##  ##   ##  ##   ## ##   ##  ##   ##   # ## #   ##   #
+         ##  ##   ##  ##  ##   ##  ###      ##     ##     ## #
+         #####    #####   ##   ##   ###     ##     ##     ####
+         ##       ## ##   ##   ##     ###   ##     ##     ## #
+         ##       ##  ##   ## ##   ##  ##   ##     ##     ##   #
+        ####     ###  ##    ###     ####   ####   ####   #######
+
+
+Release: 2018_05 of 23-May-2018.
+
+
+PROSITE is developed by the SIB Swiss Institute of Bioinformatics under the
+responsibility of Ioannis Xenarios and Alan Bridge.
+
+This release was prepared by the PROSITE team: Delphine Baratin, Beatrice
+Cuche, Edouard de Castro, Sylvain Poux, Nicole Redaschi and Christian
+Sigrist.
+
+See: http://prosite.expasy.org
+Email: prosite@expasy.org
+
+----------------------------------------------------------------------------
+----------------------------------------------------------------------------
+
+Document name: prosite.lis
+Content      : List of documentation entries
+
+----------------------------------------------------------------------------
+----------------------------------------------------------------------------
+
+This release of PROSITE contains 1809 documentation entries that describe
+2525 motifs (1309 patterns and 1216 profiles/matrices).
+
+ - The characters in positions 1 to 9 correspond to the documentation entry
+   accession number.
+ - The numerical characters in position 11 to 12 are used to indicate how
+   many discriminators (profiles/matrices or patterns) are described by a
+   documentation entry.
+
+----------------------------------------------------------------------------
+
+PDOC51657  1  (+)RNA virus helicase core domain profile
+PDOC00284  1  11-S plant seed storage proteins signature
+PDOC00633  2  14-3-3 proteins signatures
+PDOC00653  3  2'-5'-oligoadenylate synthases signatures and profile
+PDOC00168  1  2-oxo acid dehydrogenases acyltransferase component lipoyl binding site
+PDOC01048  1  2C-methyl-D-erythritol 2,4-cyclodiphosphate synthase signature
+PDOC00175  2  2Fe-2S ferredoxin-type iron-sulfur binding domain signature and profile
+PDOC00065  1  3-hydroxyacyl-CoA dehydrogenase signature
+PDOC00697  1  3-hydroxyisobutyrate dehydrogenase signature
+PDOC00116  2  3'5'-cyclic nucleotide phosphodiesterase domain signature and profile
+PDOC00997  1  4-diphosphocytidyl-2C-methyl-D-erythritol synthase signature
+PDOC01031  1  4-hydroxybenzoyl-CoA thioesterase family active site
+PDOC00339  1  43 Kd postsynaptic protein signature
+PDOC51656  1  4Fe-4S domain profile
+PDOC00176  2  4Fe-4S ferredoxin-type iron-sulfur binding domain signature and profile
+PDOC51674  1  4Fe-4S WhiB-like (Wbl)-type iron-sulfur binding domain profile
+PDOC00627  2  5'-nucleotidase signatures
+PDOC51701  1  6-Cysteine (6-Cys) domain profile
+PDOC00390  1  6-phosphogluconate dehydrogenase signature
+PDOC00759  2  6-pyruvoyl tetrahydropterin synthase signatures
+PDOC00631  1  7,8-dihydro-6-hydroxymethylpterin-pyrophosphokinase signature
+PDOC00572  1  AAA-protein family signature
+PDOC51237  28 ABC transporter family profiles
+PDOC00364  2  ABC transporter integral membrane type-1 domain profiles
+PDOC00692  1  ABC transporter integral membrane type-2 domain profile
+PDOC51426  1  ABL domain profile
+PDOC51725  1  ABM domain profile
+PDOC00826  2  Acetate and butyrate kinases family signatures
+PDOC50980  2  Acetyl-coenzyme A carboxyltransferase domain profiles
+PDOC00423  2  Aconitase family signatures
+PDOC51671  2  ACT and ACT-like domain profiles
+PDOC51772  1  Actin cross-linking (ACD) domain profile
+PDOC00019  2  Actinin-type actin-binding domain signatures
+PDOC00340  3  Actins signatures
+PDOC00070  2  Acyl-CoA dehydrogenases signatures
+PDOC00686  2  Acyl-CoA-binding (ACB) domain signature and profile
+PDOC00136  3  Acylphosphatase-like domain signatures and profile
+PDOC00402  2  Acyltransferases ChoActase / COT / CPT family signatures
+PDOC50215  1  ADAM type metalloprotease domain profile
+PDOC51533  1  ADD domain profile
+PDOC00419  1  Adenosine and AMP deaminase signature
+PDOC50141  1  Adenosine to inosine editase domain profile
+PDOC00837  2  Adenylate cyclase class-I signatures
+PDOC00104  1  Adenylate kinase signature
+PDOC00444  2  Adenylosuccinate synthetase signatures
+PDOC00297  1  ADF-H domain profile
+PDOC00229  1  Adipokinetic hormone family signature
+PDOC50974  1  AdoMet activation domain profile
+PDOC51255  1  ADP-dependent kinase (ADPK) domain profile
+PDOC00638  3  ADP-glucose pyrophosphorylase signatures
+PDOC00642  1  Adrenodoxin family, iron-sulfur binding region signature
+PDOC00247  1  Aerolysin type toxins signature
+PDOC51285  1  AGC-kinase C-terminal domain profile
+PDOC51641  1  Agenet-like domain profile
+PDOC60024  2  Agouti domain signature and profile
+PDOC51720  1  AIG1-type guanine nucleotide-binding (G) domain profile
+PDOC00654  2  Alanine dehydrogenase and pyridine nucleotide transhydrogenase signatures
+PDOC00332  1  Alanine racemase pyridoxal-phosphate attachment site
+PDOC00186  2  Albumin domain signature and profile
+PDOC00068  2  Aldehyde dehydrogenases active sites
+PDOC00061  3  Aldo/keto reductase family signatures
+PDOC00471  1  Aldose 1-epimerase putative active site
+PDOC00113  1  Alkaline phosphatase active site
+PDOC00447  1  Alkylbase DNA glycosidases alkA family signature
+PDOC51697  1  ALOG domain profile
+PDOC51325  1  Alpha box DNA-binding domain profile
+PDOC00440  1  Alpha-2-macroglobulin family thiolester region signature
+PDOC00146  2  Alpha-carbonic anhydrases signature and profile
+PDOC00443  1  Alpha-galactosidase signature
+PDOC00643  2  Alpha-isopropylmalate and homocitrate synthases signatures
+PDOC00324  1  Alpha-L-fucosidase putative active site
+PDOC00119  2  Alpha-lactalbumin / lysozyme C family signature and profile
+PDOC51158  1  Alpha-type protein kinase domain profile
+PDOC51690  1  Alphavirus core protein (CP) domain profile
+PDOC51520  1  Alphavirus nsp2 protease (nsp2pro) domain profile
+PDOC51743  1  Alphavirus-like methyltransferase (MT) domain profile
+PDOC00494  1  Amidases signature
+PDOC00009  1  Amidation site
+PDOC00926  1  Amiloride-sensitive sodium channels signature
+PDOC00191  1  Amino acid permeases signature
+PDOC00161  1  Aminoacyl-transfer RNA synthetases class-I signature
+PDOC00363  3  Aminoacyl-transfer RNA synthetases class-II profiles
+PDOC00417  1  Aminopeptidase P and proline dipeptidase signature
+PDOC00098  1  Aminotransferases class-I pyridoxal-phosphate attachment site
+PDOC00518  1  Aminotransferases class-II pyridoxal-phosphate attachment site
+PDOC00519  1  Aminotransferases class-III pyridoxal-phosphate attachment site
+PDOC00618  1  Aminotransferases class-IV signature
+PDOC00514  1  Aminotransferases class-V pyridoxal-phosphate attachment site
+PDOC51112  1  AMMECR1 domain profile
+PDOC00937  1  Ammonium transporters signature
+PDOC50856  1  AMOP domain profile
+PDOC00204  2  Amyloidogenic glycoprotein signatures
+PDOC00906  2  Anaphylatoxin domain signature and profile
+PDOC00192  2  Anion exchangers family signatures
+PDOC50088  2  Ankyrin repeat and ankyrin repeat region profiles
+PDOC00195  1  Annexins repeated domain signature
+PDOC50921  1  ANTAR domain profile
+PDOC00748  2  Antenna complexes alpha and beta subunits signatures
+PDOC50844  1  Antifreeze protein-like domain profile
+PDOC51252  1  Antistasin-like domain profile
+PDOC00598  4  AP endonucleases family 1 signatures and profile
+PDOC00599  4  AP endonucleases family 2 signatures and profile
+PDOC51032  1  AP2/ERF domain profile
+PDOC51087  1  ApaG domain profile
+PDOC51499  1  APO domain profile
+PDOC00829  6  Apoptosis regulator proteins, Bcl-2 family BH motifs signatures/profiles
+PDOC51299  1  APSES-type HTH DNA-binding domain profile
+PDOC50115  1  ARF GTPase-activating proteins domain profile
+PDOC50870  1  Arfaptin homology (AH) domain profile
+PDOC00613  2  ArgE / dapE / ACY1 / CPG2 / yscS family signatures
+PDOC00135  2  Arginase family signature and profile
+PDOC00488  2  Argininosuccinate synthase signatures
+PDOC51011  1  ARID domain profile
+PDOC50176  1  Armadillo/plakoglobin ARM repeat profile
+PDOC00513  1  Aromatic amino acids permeases signature
+PDOC00267  1  Arrestins signature
+PDOC51353  1  Arsenate reductase arsC family profile
+PDOC00661  2  ArsR-type HTH domain signature and profile
+PDOC51538  1  Arterivirus nsp2 cysteine protease (AV CP) domain profile
+PDOC51493  1  Arterivirus nsp4 proteinase domain profile
+PDOC51539  2  Arterivirus papain-like cysteine protease alpha and beta (PCPalpha and PCPbeta) domain profiles
+PDOC00963  1  Arthropod CHH/MIH/GIH neurohormones family signature
+PDOC00184  2  Arthropod hemocyanins / insect LSPs signatures
+PDOC51306  2  ASD1 and ASD2 domains profiles
+PDOC00520  2  AsnC-type HTH domain signature and profile
+PDOC00132  3  Asparaginase / glutaminase active sites signatures and domain profile
+PDOC00714  2  Aspartate and glutamate racemases signatures
+PDOC00091  1  Aspartate and ornithine carbamoyltransferases signature
+PDOC00847  1  Aspartate-semialdehyde dehydrogenase signature
+PDOC00010  1  Aspartic acid and asparagine hydroxylation site
+PDOC00289  1  Aspartokinase signature
+PDOC00657  2  Aspartyl proteases, omptin family signatures
+PDOC60010  1  Assassin bug toxin signature
+PDOC00932  1  ATP P2X receptors signature
+PDOC01020  1  ATP phosphoribosyltransferase signature
+PDOC00420  1  ATP synthase a subunit signature
+PDOC00137  1  ATP synthase alpha and beta subunits signature
+PDOC00526  1  ATP synthase c subunit signature
+PDOC00327  1  ATP synthase delta (OSCP) subunit signature
+PDOC00138  1  ATP synthase gamma subunit signature
+PDOC00185  2  ATP-binding cassette, ABC transporter-type, signature and profile
+PDOC00335  3  ATP-citrate lyase / succinyl-CoA ligases signatures
+PDOC51161  1  ATP-cone domain profile
+PDOC00295  3  ATP-dependent DNA ligase signatures and profile
+PDOC00803  1  ATP-dependent serine proteases, lon family, serine active site
+PDOC50975  1  ATP-grasp domain profile
+PDOC00017  1  ATP/GTP-binding site motif A (P-loop)
+PDOC00731  2  Autoinducer synthase family signature and profile
+PDOC51208  1  Autotransporter beta-domain profile
+PDOC00499  2  Avidin-like domain signature and profile
+PDOC51215  1  AWS domain profile
+PDOC51148  1  AXH domain profile
+PDOC51332  2  B12-binding and B12-binding N-terminal domain profiles
+PDOC50863  1  B3 DNA-binding domain profile
+PDOC50188  1  B30.2/SPRY domain profile
+PDOC51483  1  B5 domain profile
+PDOC51381  1  B9 domain profile
+PDOC00465  2  Bacterial chemotaxis sensory transducers signature and profile
+PDOC00763  1  Bacterial export FHIPEP family signature
+PDOC00796  1  Bacterial extracellular solute-binding proteins, family 1 signature
+PDOC00798  1  Bacterial extracellular solute-binding proteins, family 3 signature
+PDOC00799  1  Bacterial extracellular solute-binding proteins, family 5 signature
+PDOC00044  1  Bacterial histone-like DNA-binding proteins signature
+PDOC00283  1  Bacterial ice-nucleation proteins octamer repeat
+PDOC00397  1  Bacterial luciferase subunits signature
+PDOC00876  1  Bacterial microcompartiments proteins signature
+PDOC00375  2  Bacterial quinoprotein dehydrogenases signatures
+PDOC00040  2  Bacterial regulatory proteins, araC family signature and profile
+PDOC00291  2  Bacterial rhodopsins signatures
+PDOC00558  1  Bacterial ribonuclease P protein component signature
+PDOC00493  1  Bacterial ring hydroxylating dioxygenases alpha-subunit signature
+PDOC00878  1  Bacterial type II secretion system protein C signature
+PDOC00683  1  Bacterial type II secretion system protein D signature
+PDOC00567  1  Bacterial type II secretion system protein E signature
+PDOC00682  1  Bacterial type II secretion system protein F signature
+PDOC00879  1  Bacterial type II secretion system protein N signature
+PDOC00755  1  Bacterial-type phytoene dehydrogenase signature
+PDOC60030  1  Bacteriocin class IIa family signature
+PDOC00475  1  Bacterioferritin signature
+PDOC00410  2  Bacteriophage-type RNA polymerase family active site signatures
+PDOC51035  1  BAG domain profile
+PDOC51038  1  BAH domain profile
+PDOC00977  1  Band 7 protein family signature
+PDOC51021  1  BAR domain profile
+PDOC00619  3  Barwin domain signatures and profile
+PDOC00036  2  Basic-leucine zipper (bZIP) domain signature and profile
+PDOC00957  1  Bax inhibitor-1 family signature
+PDOC01007  1  BCCT family of transporters signature
+PDOC50197  1  BEACH domain profile
+PDOC51783  1  BEACH-type PH domain profile
+PDOC51457  1  BEN domain profile
+PDOC51031  1  BESS domain profile
+PDOC00414  2  Beta-amylase active sites
+PDOC00667  1  Beta-eliminating lyases pyridoxal-phosphate attachment site
+PDOC00529  1  Beta-ketoacyl synthases active site
+PDOC00606  2  Beta-lactamases class B signatures
+PDOC00134  3  Beta-lactamases classes -A, -C, and -D active site
+PDOC51662  1  Beta-propeller phytase (BPP) domain profile
+PDOC51658  1  Bifunctional nuclease (BFN) domain profile
+PDOC51127  1  Big-1 (bacterial Ig-like domain 1) domain profile
+PDOC51515  1  Bin3-type S-adenosyl-L-methionine (SAM) domain profile
+PDOC50979  1  Biotin carboxylation (BC) domain profile
+PDOC00167  1  Biotin-requiring enzymes attachment site
+PDOC51733  1  Biotinyl protein ligase (BPL) and lipoyl protein ligase (LPL) catalytic domain profile
+PDOC50968  1  Biotinyl/lipoyl domain profile
+PDOC00015  1  Bipartite nuclear localization signal profile
+PDOC00987  2  BIR repeat signature and profile
+PDOC51548  1  Birnavirus VP4 protease domain profile
+PDOC50925  1  BLUF domain profile
+PDOC51848  1  bMERB domain profile
+PDOC51714  1  Bms1-type guanine nucleotide-binding (G) domain profile
+PDOC00230  1  Bombesin-like peptides family signature
+PDOC50914  1  BON domain profile
+PDOC00253  1  Bowman-Birk serine protease inhibitors family signature
+PDOC50138  1  BRCA2 repeat profile
+PDOC50172  1  BRCT domain profile
+PDOC50869  1  BRICHOS domain profile
+PDOC50833  1  Brix domain profile
+PDOC51750  1  Bro-N domain profile
+PDOC51180  1  BRO1 domain profile
+PDOC00550  2  Bromodomain signature and profile
+PDOC51514  1  BRX domain profile
+PDOC50858  1  BSD domain profile
+PDOC50097  1  BTB domain profile
+PDOC00742  2  BTG family signatures
+PDOC51489  1  BUB1 N-terminal domain profile
+PDOC51279  1  Bucentaur C-terminal (BCNT-C) domain profile
+PDOC50927  1  Bulb-type lectin domain profile
+PDOC51277  1  BURP domain profile
+PDOC00089  2  C-5 cytosine-specific DNA methylases signatures
+PDOC51329  1  C-CAP/cofactor C-like domain profile
+PDOC00912  2  C-terminal cystine knot domain signature and profile
+PDOC00169  4  C-type cytochrome superfamily profiles
+PDOC00537  2  C-type lectin domain signature and profile
+PDOC00857  1  C1q domain profile
+PDOC00380  1  C2 domain profile
+PDOC51840  1  C2 NT-type domain profile
+PDOC00205  2  Cadherin domain signature and profile
+PDOC00231  1  Calcitonin / CGRP / IAPP family signature
+PDOC00913  1  Calcium-binding EGF-like domain signature
+PDOC50021  1  Calponin homology (CH) domain profile
+PDOC00808  2  Calponin-like repeat signature and profile
+PDOC00636  3  Calreticulin family signatures
+PDOC00675  2  Calsequestrin signatures
+PDOC00530  1  cAMP phosphodiesterases class-II signature
+PDOC00004  1  cAMP- and cGMP-dependent protein kinase phosphorylation site
+PDOC00835  2  CAP protein signatures
+PDOC00660  2  CAP-Gly domain signature and profile
+PDOC00676  2  Carbamoyl-phosphate synthase subdomain signatures
+PDOC51759  1  Carbohydrate-binding module 15 (CBM15) domain profile
+PDOC50263  1  Carbon-nitrogen hydrolase domain profile
+PDOC00112  2  Carboxylesterases type-B signatures
+PDOC50209  1  CARD caspase recruitment domain profile
+PDOC00012  2  Carrier protein (CP) domain profile and phosphopantetheine attachment site signature
+PDOC51749  1  Cas9-type HNH domain profile
+PDOC00006  1  Casein kinase II phosphorylation site
+PDOC00845  1  Casein kinase II regulatory subunit signature
+PDOC00277  1  Caseins alpha/beta signature
+PDOC00864  4  Caspase family signatures and profiles
+PDOC00395  3  Catalase signatures and profile
+PDOC00729  2  Cathelicidins signatures
+PDOC00930  1  Caveolins signature
+PDOC51506  1  Cbl-type phosphotyrosine-binding (Cbl-PTB) domain profile
+PDOC00486  2  CBM1 (Carbohydrate-binding type-1) domain signature and profile
+PDOC51763  1  CBM10 (carbohydrate binding type-10) domain profile
+PDOC00485  2  CBM2 (carbohydrate-binding type-2) domain signature and profile
+PDOC51166  1  CBM20 (carbohydrate binding type-20) domain profile
+PDOC51159  1  CBM21 (carbohydrate binding type-21) domain profile
+PDOC51172  1  CBM3 (carbohydrate binding type-3) domain profile
+PDOC51175  1  CBM6 (carbohydrate binding type-6) domain profile
+PDOC51727  1  CBP/p300-type histone acetyltransferase (HAT) domain profile
+PDOC51371  1  CBS domain profile
+PDOC51017  1  CCT domain profile
+PDOC00321  1  CDP-alcohol phosphatidyltransferases signature
+PDOC00241  1  Cecropin family signature
+PDOC00016  1  Cell attachment sequence
+PDOC00352  1  Cell cycle proteins ftsW / rodA / spoVE signature
+PDOC51170  1  Cell wall-binding repeat profile
+PDOC51253  1  CENPB-type HTH domain profile
+PDOC00350  1  Cereal trypsin/alpha-amylase inhibitors family signature
+PDOC51437  1  CG-1 DNA-binding domain profile
+PDOC51771  1  CGT/MARTX cysteine protease (CPD) domain profile
+PDOC51708  1  CHAD domain profile
+PDOC00403  1  Chalcone and stilbene synthases active site
+PDOC00249  1  Channel forming colicins signature
+PDOC50911  1  CHAP domain profile
+PDOC00679  2  Chaperonins clpA/B signatures
+PDOC00576  1  Chaperonins cpn10 signature
+PDOC00268  1  Chaperonins cpn60 signature
+PDOC00610  3  Chaperonins TCP-1 signatures
+PDOC50839  1  CHASE domain profile
+PDOC50122  1  CheB-type methylesterase domain profile
+PDOC50123  1  CheR-type methyltransferase profile
+PDOC50851  1  CheW-like domain profile
+PDOC00206  2  Chitin-binding type R&R domain signature and profile
+PDOC00025  2  Chitin-binding type-1 domain signature and profile
+PDOC50940  1  Chitin-binding type-2 domain profile
+PDOC00839  1  Chitinases family 18 active site
+PDOC00620  2  Chitinases family 19 signatures
+PDOC60000  1  Chitosanases families 46 and 80 active sites signature
+PDOC00093  1  Chloramphenicol acetyltransferase active site
+PDOC51401  1  CHORD domain profile
+PDOC51167  3  Chorismate mutase domains profiles
+PDOC00628  3  Chorismate synthase signatures
+PDOC50933  1  CHRD domain profile
+PDOC00517  2  Chromo domain signature and profile
+PDOC51391  1  CID domain profile
+PDOC51135  1  CIDE-N domain profile
+PDOC51721  1  Circularly permuted (CP)-type guanine nucleotide-binding (G) domain profile
+PDOC00422  1  Citrate synthase signature
+PDOC50219  1  Citron homology (CNH) domain profile
+PDOC51508  1  CKK domain profile
+PDOC00891  1  Class A bacterial acid phosphatases signature
+PDOC51757  1  Class I myosin tail homology (TH1) domain profile
+PDOC51555  36 Class I SAM-dependent methyltransferases family profiles
+PDOC51604  3  Class IV SAM-dependent methyltransferases family profiles
+PDOC51565  17 Class V SAM-dependent methyltransferases family profiles
+PDOC51598  3  Class VI SAM-dependent methyltransferases family profiles
+PDOC00761  2  Clathrin adaptor complexes medium chain signatures
+PDOC00760  1  Clathrin adaptor complexes small chain signature
+PDOC50236  1  Clathrin heavy-chain (CHCR) repeat profile
+PDOC00196  2  Clathrin light chains signatures
+PDOC01045  1  Claudin family signature
+PDOC00416  1  Clostridium cellulosome enzymes repeated domain signature
+PDOC51823  1  Clueless (Clu) domain profile
+PDOC00431  2  Clusterin signatures
+PDOC51846  1  CNNM transmembrane domain profile
+PDOC00988  3  Coagulation factors 5/8 type C domain (FA58C) signatures and profile
+PDOC51274  1  CobBQ-type GATase domain profile
+PDOC01044  1  COE family signature
+PDOC00980  2  Coenzyme A transferases signatures
+PDOC51808  1  Coiled coil-helix-coiled coil-helix (CHCH) domain profile
+PDOC00304  2  Cold-shock (CSD) domain profile
+PDOC00111  2  Colipase family signature and profile
+PDOC51403  1  Collagen IV carboxyl-terminal non-collagenous (NC1) domain profile
+PDOC51269  1  COMM domain profile
+PDOC60025  1  Conantokin family signature
+PDOC00341  2  Connexins signatures
+PDOC60004  5  Conotoxin families signatures
+PDOC60027  1  Contryphan family signature
+PDOC00895  2  Copper amine oxidase signatures
+PDOC00080  2  Copper type II, ascorbate-dependent monooxygenases signatures
+PDOC00863  2  Copper-fist DNA-binding domain signature and profile
+PDOC00082  2  Copper/Zinc superoxide dismutase signatures
+PDOC00783  1  Coproporphyrinogen III oxidase signature
+PDOC01042  1  Cornichon family signature
+PDOC51442  1  Coronavirus main protease (M-pro) domain profile
+PDOC51090  1  Cortactin repeat profile
+PDOC00442  1  Corticotropin-releasing factor family signature
+PDOC51262  1  COS domain profile
+PDOC51441  1  CpcD-like domain profile
+PDOC50191  1  CRAL-TRIO lipid binding domain profile
+PDOC51634  1  CRC domain profile
+PDOC50108  1  CRIB domain profile
+PDOC51290  1  CRIC domain profile
+PDOC00772  2  CRISP family signature
+PDOC01005  1  CRM domain profile
+PDOC50943  1  Cro/C1-type HTH domain profile
+PDOC01025  1  Crossover junction endodeoxyribonuclease ruvC signature
+PDOC00041  2  Crp-type HTH domain signature and profile
+PDOC00197  1  Crystallins beta and gamma 'Greek key' motif profile
+PDOC51203  1  CS domain profile
+PDOC51854  1  CSPG repeat profile
+PDOC00361  2  CTF/NF-I DNA-binding domain signature and profile
+PDOC00908  1  CUB domain profile
+PDOC51140  1  CUE domain profile
+PDOC00967  2  Cullin family signature and profile
+PDOC51788  1  CULT domain profile
+PDOC51042  1  CUT domain profile
+PDOC00140  2  Cutinase active sites signatures
+PDOC51496  1  CVC domain profile
+PDOC51633  1  CXC domain profile
+PDOC00691  3  Cyclic nucleotide-binding domain signatures and profile
+PDOC00728  2  Cyclin-dependent kinases regulatory subunits signatures
+PDOC00264  1  Cyclins signature
+PDOC00154  2  Cyclophilin-type peptidyl-prolyl cis-trans isomerase signature & profile
+PDOC51052  3  Cyclotides profile and signatures
+PDOC00677  1  Cys/Met metabolism enzymes pyridoxal-phosphate attachment site
+PDOC00259  1  Cysteine proteases inhibitors signature
+PDOC50203  1  Cysteine proteinase, calpain-type, catalytic domain profile
+PDOC00700  1  Cysteine synthase/cystathionine beta-synthase P-phosphate attachment site
+PDOC51289  1  Cysteine-rich GLG1 repeat
+PDOC51707  1  CYTH domain profile
+PDOC00702  2  Cytidine and deoxycytidylate deaminases zinc-binding region signature and domain profile
+PDOC00171  2  Cytochrome b/b6 profiles
+PDOC00170  2  Cytochrome b5 family, heme-binding domain signature and profile
+PDOC00464  1  Cytochrome b559 subunits heme-binding site signature
+PDOC50939  1  Cytochrome b561 domain profile
+PDOC00647  2  Cytochrome c and c1 heme lyases signatures
+PDOC00074  2  Cytochrome c oxidase subunit I signature and profile
+PDOC00075  3  Cytochrome c oxidase subunit II signature and profiles
+PDOC00663  2  Cytochrome c oxidase subunit Vb family signature and profile
+PDOC01032  1  Cytochrome c oxidase subunit VIa signature
+PDOC00081  1  Cytochrome P450 cysteine heme-iron ligand signature
+PDOC00548  1  Cytosol aminopeptidase signature
+PDOC00188  1  Cytosolic fatty-acid binding proteins signature
+PDOC00659  2  D-alanine--D-alanine ligase signatures
+PDOC00573  1  D-amino acid oxidases signature
+PDOC00063  3  D-isomer specific 2-hydroxyacid dehydrogenases signatures
+PDOC50146  1  DAG-kinase catalytic (DAGKc) domain profile
+PDOC50824  1  DAPIN domain profile
+PDOC51376  1  DBB domain profile
+PDOC51413  1  DBINO domain profile
+PDOC00605  2  Dbl homology (DH) domain signature and profile
+PDOC51222  1  DCD domain profile
+PDOC51229  1  DCUN1 domain profile
+PDOC00329  1  DDC / GAD / HDC / TyrDC pyridoxal-phosphate attachment site
+PDOC51043  1  DDHD domain profile
+PDOC50827  1  DDT domain profile
+PDOC00039  2  DEAD and DEAH box families ATP-dependent helicases signatures
+PDOC51195  1  DEAD-box RNA helicase Q motif profile
+PDOC50017  1  Death domain profile
+PDOC50168  1  Death effector domain (DED) profile
+PDOC51482  1  DegV domain profile
+PDOC00285  2  Dehydrins signatures
+PDOC00788  1  Dehydroquinase class I active site
+PDOC00789  1  Dehydroquinase class II signature
+PDOC00451  1  Delta 1-pyrroline-5-carboxylate reductase signature
+PDOC00153  1  Delta-aminolevulinic acid dehydratase active site
+PDOC60018  1  Delta-atracotoxin (ACTX) family signature
+PDOC00696  2  DeoR-type HTH domain signature and profile
+PDOC00711  2  Deoxyribonuclease I signatures
+PDOC50186  1  DEP domain profile
+PDOC00996  1  Dephospho-CoA kinase (DPCK) domain profile
+PDOC51512  3  DFDF domain and FFD and TFG boxes profiles
+PDOC51699  1  DG-type SEA domain profile
+PDOC51481  1  DhaK domain profile
+PDOC51480  1  DhaL domain profile
+PDOC50216  1  DHHC domain profile
+PDOC51650  2  DHR-1 and DHR-2 domain profiles
+PDOC51794  1  Diadenylate cyclase (DAC) domain profile
+PDOC01029  1  Diaminopimelate epimerase signature
+PDOC51231  1  Diaphanous autoregulatory domain (DAD) profile
+PDOC51327  1  Dicer double-stranded RNA-binding fold domain profile
+PDOC01000  1  Dihydrodipicolinate reductase signature
+PDOC00569  2  Dihydrodipicolinate synthase signatures
+PDOC00072  2  Dihydrofolate reductase (DHFR) domain signature and profile
+PDOC00401  2  Dihydroorotase signatures
+PDOC00708  2  Dihydroorotate dehydrogenase signatures
+PDOC00630  2  Dihydropteroate synthase signatures
+PDOC00690  2  Dihydroxy-acid and 6-phosphogluconate dehydratases signatures
+PDOC51126  1  Dilute domain profile
+PDOC51825  1  DIPSY domain profile
+PDOC00351  2  Disintegrin domain signature and profile
+PDOC50841  1  DIX domain profile
+PDOC50809  2  DM DNA-binding domain signature and profile
+PDOC51336  1  DM10 domain profile
+PDOC51549  1  DM13 domain profile
+PDOC00057  1  DNA mismatch repair proteins mutL / hexB / PMS1 signature
+PDOC00388  1  DNA mismatch repair proteins mutS family signature
+PDOC00331  2  DNA photolyases class 1 signatures
+PDOC00832  2  DNA photolyases class 2 signatures
+PDOC00412  1  DNA polymerase family A signature
+PDOC00107  1  DNA polymerase family B signature
+PDOC00452  1  DNA polymerase family X signature
+PDOC00160  1  DNA topoisomerase II signature
+PDOC51737  1  DNA-binding recombinase domain profile
+PDOC00821  1  DNA/RNA non-specific endonucleases active site
+PDOC00771  1  DnaA protein signature
+PDOC51284  1  DOC domain profile
+PDOC51766  1  Dockerin domain profile
+PDOC51806  1  DOG1 domain profile
+PDOC50836  1  DOMON domain profile
+PDOC51569  1  DOT1 domain profile
+PDOC50137  1  Double stranded RNA-binding domain (dsRBD) profile
+PDOC50309  1  Doublecortin domain profile
+PDOC00645  2  Dps protein family signatures
+PDOC50139  1  DRADA repeat profile
+PDOC51051  1  DSL domain profile
+PDOC50944  1  DtxR-type HTH domain profile
+PDOC51283  1  DUSP domain profile
+PDOC51282  1  DWNN domain profile
+PDOC00362  2  Dynamin-type guanine nucleotide-binding (G) domain signature and profile
+PDOC00953  1  Dynein light chain type 1 signature
+PDOC51404  1  DyP-type peroxidase family
+PDOC51703  1  DZF domain profile
+PDOC50883  1  EAL domain profile
+PDOC50912  1  EAR repeat profile
+PDOC51230  1  EB1-like C-terminal (EB1-C) domain profile
+PDOC00018  2  EF-hand calcium-binding domain signature and profile
+PDOC00021  3  EGF-like domain signatures and profile
+PDOC50031  1  EH domain profile
+PDOC00583  1  Electron transfer flavoprotein alpha-subunit signature
+PDOC00816  1  Electron transfer flavoprotein beta-subunit signature
+PDOC51213  1  ELK domain profile
+PDOC51156  1  ELM2 domain profile
+PDOC51335  1  ELMO domain profile
+PDOC00914  1  ELO family signature
+PDOC01001  1  Elongation factor 1 (EF-1) gamma C-terminal domain profile
+PDOC00648  2  Elongation factor 1 beta/beta'/delta chain signatures
+PDOC00981  1  Elongation factor P signature
+PDOC00867  2  Elongation factor Ts signatures
+PDOC51041  1  EMI domain profile
+PDOC51138  1  EMSY N-terminal (ENT) domain profile
+PDOC00964  1  Endogenous opioids neuropeptides precursors signature
+PDOC00615  2  Endonuclease III signatures
+PDOC00358  2  Endopeptidase Clp active sites
+PDOC00014  1  Endoplasmic reticulum targeting sequence
+PDOC00243  1  Endothelin family signature
+PDOC51712  1  EngA-type guanine nucleotide-binding (G) domain profile
+PDOC51706  1  EngB-type guanine nucleotide-binding (G) domain profile
+PDOC50936  1  EngC GTPase domain profile
+PDOC00992  1  Enhancer of rudimentary signature
+PDOC51665  1  Enkurin domain profile
+PDOC00148  1  Enolase signature
+PDOC00150  1  Enoyl-CoA hydratase/isomerase signature
+PDOC00582  2  Enterobacterial virulence outer membrane protein signatures
+PDOC50942  1  ENTH domain profile
+PDOC00699  2  Ependymins signatures
+PDOC51550  1  Eph receptor ligand binding (Eph LBD) domain profile
+PDOC01003  2  Ephrin receptor-binding (ephrin RBD) domain signature and profile
+PDOC00097  2  EPSP synthase signatures
+PDOC00732  2  ER lumen protein retaining receptor signatures
+PDOC51713  1  Era-type guanine nucleotide-binding (G) domain profile
+PDOC60026  1  Ergtoxin (ErgTx) family signature
+PDOC51324  1  ERV/ALR sulfhydryl oxidase domain profile
+PDOC00644  1  Erythropoietin / thrombopoeitin signature
+PDOC00374  3  Ets-domain signatures and profile
+PDOC00128  3  Eukaryotic and viral aspartyl proteases signature and profiles
+PDOC00428  1  Eukaryotic cobalamin-binding proteins signature
+PDOC00159  1  Eukaryotic DNA topoisomerase I active site
+PDOC00970  1  Eukaryotic initiation factor 1A signature
+PDOC00641  1  Eukaryotic initiation factor 4E signature
+PDOC00274  1  Eukaryotic initiation factor 5A hypusine signature
+PDOC00483  1  Eukaryotic mitochondrial porin signature
+PDOC00484  1  Eukaryotic molybdopterin oxidoreductases signature
+PDOC00106  1  Eukaryotic RNA polymerase II heptapeptide repeat
+PDOC00030  1  Eukaryotic RNA recognition motif profile
+PDOC00126  3  Eukaryotic thiol (cysteine) proteases active sites
+PDOC51784  2  Exonuclease I (ExoI) SH3-like and C-terminal domains profiles
+PDOC50842  2  Expansin family profiles
+PDOC51751  1  EXPERA domain profile
+PDOC51380  1  EXS domain profile
+PDOC51805  1  Extended PHD (ePHD) domain profile
+PDOC00078  1  Extradiol ring-cleavage dioxygenases signature
+PDOC00609  2  F-actin capping protein alpha subunit signatures
+PDOC00203  1  F-actin capping protein beta subunit signature
+PDOC51741  1  F-BAR domain profile
+PDOC50181  1  F-box domain profile
+PDOC51114  1  F-box-associated (FBA) domain profile
+PDOC00753  2  FAD-dependent glycerol-3-phosphate dehydrogenase signatures
+PDOC50213  1  FAS1/BIgH3 domain profile
+PDOC51189  2  FAT and FATC domains profiles
+PDOC00399  2  Fatty acid desaturases signatures
+PDOC50969  1  FCP1 homology domain profile
+PDOC51471  1  Fe(2+) 2-oxoglutarate dioxygenase domain profile
+PDOC51191  1  FemABX peptidyl transferase family profile
+PDOC51711  1  FeoB-type guanine nucleotide-binding (G) domain profile
+PDOC00566  3  FERM domain signatures and profile
+PDOC51384  1  Ferredoxin reductase-type FAD-binding domain profile
+PDOC51447  1  Ferredoxin-fold anticodon binding (FDX-ACB) domain profile
+PDOC00181  2  Ferritin iron-binding regions signatures
+PDOC50905  1  Ferritin-like diiron domain profile
+PDOC00462  1  Ferrochelatase signature
+PDOC00966  4  Fetuin family signatures and fetuin-A- and fetuin-B-type cystatin domain profiles
+PDOC51676  1  FF domain domain profile
+PDOC51470  1  FG-GAP repeat profile
+PDOC00408  2  FGGY family of carbohydrate kinases signatures
+PDOC51461  1  Fibrillar collagen C-terminal non-collagenous (NC1) domain profile
+PDOC00489  1  Fibrillarin signature
+PDOC00445  2  Fibrinogen C-terminal domain signature and profile
+PDOC00965  2  Fibronectin type-I domain signature and profile
+PDOC00022  2  Fibronectin type-II collagen-binding domain signature and profile
+PDOC50853  1  Fibronectin type-III domain profile
+PDOC51459  1  Fido domain profile
+PDOC51830  1  FIIND domain profile
+PDOC50194  1  Filamin/ABP280 repeat profile
+PDOC51735  1  Filoviruses VP35 interferon inhibitory (IID) domain profile
+PDOC00886  1  Fimbrial biogenesis outer membrane usher protein signature
+PDOC51511  1  FIP-RBD domain profile
+PDOC00426  1  FKBP-type peptidyl-prolyl cis-trans isomerase profile
+PDOC00508  1  Flagella basal body rod proteins signature
+PDOC00812  2  Flagella transport protein fliP family signatures
+PDOC01011  1  Flagellar motor protein motA family signature
+PDOC00999  1  FLAP/GST2/LTC4S family signature
+PDOC51331  1  Flavin-dependent thymidylate synthase (thyX) domain profile
+PDOC51527  2  Flavivirus NS2B and NS3 protease (NS3pro) domain profiles
+PDOC00178  1  Flavodoxin signature
+PDOC50902  1  Flavodoxin-like domain profile
+PDOC51824  1  Flocculin 11 (Flo11) domain profile
+PDOC00482  2  FMN-dependent alpha-hydroxy acid dehydrogenase signature and profile
+PDOC51531  1  Foamy virus protease (FV PR) domain profile
+PDOC00773  2  Folylpolyglutamate synthase signatures
+PDOC00564  3  Fork head domain signatures and profile
+PDOC50006  1  Forkhead-associated (FHA) domain profile
+PDOC00956  3  Formamidopyrimidine-DNA glycosylase signature and profiles
+PDOC00769  2  Formate and nitrite transporters signatures
+PDOC00595  2  Formate--tetrahydrofolate ligase signatures
+PDOC51444  1  Formin homology-2 (FH2) domain profile
+PDOC01043  2  Frataxin family signature and profile
+PDOC50038  1  Frizzled (fz) domain profile
+PDOC00114  1  Fructose-1-6-bisphosphatase active site
+PDOC00143  1  Fructose-bisphosphate aldolase class-I active site
+PDOC00523  2  Fructose-bisphosphate aldolase class-II signatures
+PDOC50901  1  FtsK domain profile
+PDOC00873  2  FtsZ protein signatures
+PDOC00147  1  Fumarate lyases signature
+PDOC00393  1  Fumarate reductase / succinate dehydrogenase FAD-binding site
+PDOC00739  1  Fungal hydrophobins signature
+PDOC01014  1  FXYD family signature
+PDOC51542  2  FYR domain FYRN and FYRC motif profiles
+PDOC50174  1  G-patch domain profile
+PDOC00210  2  G-protein coupled receptors family 1 signature and profile
+PDOC00559  4  G-protein coupled receptors family 2 signatures and profiles
+PDOC00754  4  G-protein coupled receptors family 3 signatures and profile
+PDOC01002  1  G-protein gamma subunit profile
+PDOC00765  2  G10 protein signatures
+PDOC51109  1  G5 domain profile
+PDOC51484  1  G8 domain profile
+PDOC00099  1  Galactokinase signature
+PDOC00108  2  Galactose-1-phosphate uridyl transferase signatures
+PDOC00279  1  Galactoside-binding lectin (galectin) domain profile
+PDOC00673  1  Galanin signature
+PDOC50180  1  Gamma-adaptin ear (GAE) domain profile
+PDOC00011  2  Gamma-carboxyglutamic acid-rich (Gla) domain signature and profile
+PDOC51275  1  Gamma-glutamyl hydrolase domain profile
+PDOC00940  1  Gamma-glutamyl phosphate reductase signature
+PDOC00404  1  Gamma-glutamyltranspeptidase signature
+PDOC00725  1  Gamma-thionins family signature
+PDOC51460  1  GAR domain profile
+PDOC00207  2  Gas vesicles protein GVPa signatures
+PDOC00208  1  Gas vesicles protein GVPc repeated domain signature
+PDOC00232  1  Gastrin / cholecystokinin family signature
+PDOC50909  1  GAT domain profile
+PDOC00300  2  GATA-type zinc finger domain signature and profile
+PDOC51715  1  GB1/RHD3-type guanine nucleotide-binding (G) domain profile
+PDOC51069  1  GBP repeat profile
+PDOC50807  1  GCM domain profile
+PDOC51186  4  Gcn5-related N-acetyltransferase (GNAT) domain profiles
+PDOC00952  1  GDA1/CD39 family of nucleoside phosphatases signature
+PDOC51388  1  GED domain profile
+PDOC00498  1  General diffusion Gram-negative porins signature
+PDOC00597  1  Germin family signature
+PDOC50887  1  GGDEF domain profile
+PDOC00545  1  GHMP kinases putative ATP-binding domain
+PDOC50164  1  GIY-YIG domain profile
+PDOC00793  1  Globin family profile
+PDOC00726  1  glpT family of transporters signature
+PDOC00071  1  Glu / Leu / Phe / Val dehydrogenases active site
+PDOC00233  1  Glucagon / GIP / secretin / VIP family signature
+PDOC00646  1  Glucoamylase active site region signature
+PDOC00979  1  Glucokinase regulatory protein family signature
+PDOC00894  1  Glucosamine/galactosamine-6-phosphate isomerases signature
+PDOC00986  2  Glucose inhibited division protein A family signatures
+PDOC00067  1  Glucose-6-phosphate dehydrogenase active site
+PDOC00157  3  Glucose-6-phosphate isomerase (GPI) family signatures and profile
+PDOC51495  1  GLUE domain profile
+PDOC00701  1  Glutamate 5-kinase signature
+PDOC60031  1  Glutamic acid-rich protein 2 (GARP2) signature
+PDOC00405  1  Glutamine amidotransferase type 1 domain profile
+PDOC00406  1  Glutamine amidotransferase type 2 domain profile
+PDOC00162  3  Glutamine synthetase signatures
+PDOC00608  1  Glutamyl-tRNA reductase signature
+PDOC00948  1  Glutamyl-tRNA(Gln) amidotransferase subunit B signature
+PDOC00173  2  Glutaredoxin active site signature and domain profile
+PDOC00396  3  Glutathione peroxidases signatures and profile
+PDOC00069  1  Glyceraldehyde 3-phosphate dehydrogenase active site
+PDOC00665  2  Glycine radical domain signature and profile
+PDOC00281  1  Glycophorin A signature
+PDOC00779  1  Glycoprotease family signature
+PDOC00623  3  Glycoprotein hormones alpha chain signatures and profile
+PDOC00234  2  Glycoprotein hormones beta chain signatures
+PDOC00495  2  Glycosyl hydrolases family 1 signatures
+PDOC00510  2  Glycosyl hydrolases family 10 (GH10) active site and domain profile
+PDOC00622  3  Glycosyl hydrolases family 11 (GH11) active sites signatures and domain profile
+PDOC00794  2  Glycosyl hydrolases family 16 (GH16) signature and domain profile
+PDOC00507  1  Glycosyl hydrolases family 17 signature
+PDOC00531  2  Glycosyl hydrolases family 2 signatures
+PDOC00737  1  Glycosyl hydrolases family 25 active sites signature
+PDOC51764  1  Glycosyl hydrolases family 26 (GH26) domain profile
+PDOC00621  1  Glycosyl hydrolases family 3 active site
+PDOC00120  2  Glycosyl hydrolases family 31 signatures
+PDOC00532  1  Glycosyl hydrolases family 32 active site
+PDOC00910  1  Glycosyl hydrolases family 35 putative active site
+PDOC00787  1  Glycosyl hydrolases family 39 putative active site
+PDOC01027  1  Glycosyl hydrolases family 4 signature
+PDOC00877  1  Glycosyl hydrolases family 45 active site
+PDOC00565  1  Glycosyl hydrolases family 5 signature
+PDOC00563  2  Glycosyl hydrolases family 6 signatures
+PDOC00640  1  Glycosyl hydrolases family 8 signature
+PDOC00511  2  Glycosyl hydrolases family 9 active sites signatures
+PDOC51659  1  Glycosyltransferase family 23 (GT23) domain profile
+PDOC00720  2  Glyoxalase I signatures
+PDOC00927  1  Glypicans signature
+PDOC00543  2  GMC oxidoreductases signatures
+PDOC51553  1  GMP synthetase ATP pyrophosphatase (GMPS ATP-PPase) domain profile
+PDOC51473  1  Gnk2-homologous domain profile
+PDOC00042  1  GntR-type HTH domain profile
+PDOC50866  1  GOLD domain profile
+PDOC50877  1  GoLoco/GPR motif profile
+PDOC51046  1  GON domain profile
+PDOC00432  1  Gonadotropin-releasing hormones signature
+PDOC51704  1  GP-PDE domain profile
+PDOC00890  1  GPR1/FUN34/yaaH family signature
+PDOC50221  1  GPS domain profile
+PDOC00552  1  Gram-negative pili assembly chaperone signature
+PDOC00373  1  Gram-positive cocci surface proteins LPxTG motif profile
+PDOC00365  2  Granins signatures
+PDOC00634  1  Granulins signature
+PDOC00584  1  Granulocyte-macrophage colony-stimulating factor signature
+PDOC50985  1  GRAS domain profile
+PDOC50913  1  GRIP domain profile
+PDOC00822  1  grpE protein signature
+PDOC51256  1  GS domain profile
+PDOC51775  1  GTD-binding domain profile
+PDOC51139  1  GTF2I-like repeat profile
+PDOC00672  2  GTP cyclohydrolase I signatures
+PDOC00704  1  GTP1/OBG family signature
+PDOC00425  2  Guanylate cyclase domain signature and profile
+PDOC00670  2  Guanylate kinase-like signature and profile
+PDOC51780  1  GW domain profile
+PDOC50829  1  GYF domain profile
+PDOC50885  1  HAMP domain profile
+PDOC51467  1  HARP domain profile
+PDOC00220  1  HBGF/FGF family signature
+PDOC51753  1  HBM domain profile
+PDOC00292  1  HCP repeats signature
+PDOC51643  1  HD Cas3-type domain profile
+PDOC51831  3  HD, HD-GYP and HD-related output (HDOD) domains profiles
+PDOC51089  1  Headpiece (HP) domain profile
+PDOC50077  1  HEAT repeat profile
+PDOC00269  3  Heat shock hsp70 proteins family signatures
+PDOC00270  1  Heat shock hsp90 proteins family signature
+PDOC00246  1  Heat-stable enterotoxins signature
+PDOC00804  2  Heavy-metal-associated domain signature and profile
+PDOC50237  1  HECT domain profile
+PDOC51744  1  Helper-component proteinase (HC-Pro) cysteine protease (CPD) domain profile
+PDOC51405  1  Heme haloperoxidase family profile
+PDOC00512  1  Heme oxygenase signature
+PDOC00394  4  Heme peroxidase signatures and profiles
+PDOC50253  1  Heme-copper oxidase subunit III profile
+PDOC00476  1  Hemerythrin family signature
+PDOC00293  1  Hemolysin-type calcium-binding region signature
+PDOC00023  2  Hemopexin domain signature and hemopexin repeat profile
+PDOC51693  1  Hepacivirus nonstructural protein 2 (NS2) protease domain profile
+PDOC51822  1  Hepacivirus/Pegivirus NS3 protease domain profile
+PDOC51838  1  Hepatitis delta antigen (HDAg) domain profile
+PDOC50910  1  HEPN domain profile
+PDOC51521  1  Herpesvirus tegument ubiquitin-specific protease (htUSP) domain profile
+PDOC00094  1  Hexapeptide-repeat containing-transferases signature
+PDOC00370  2  Hexokinase domain signature and profile
+PDOC51705  1  HflX-type guanine nucleotide-binding (G) domain profile
+PDOC51503  1  HIG1 domain profile
+PDOC00515  1  High potential iron-sulfur proteins family profile
+PDOC50834  1  HIN-200 A and B domains profile
+PDOC51839  1  His(Cys)3-ligated-type [4Fe-4S] domain profile
+PDOC00538  2  Histidine acid phosphatases signatures
+PDOC50109  1  Histidine kinase domain profile
+PDOC50894  1  Histidine-containing phosphotransfer (HPt) domain profile
+PDOC00534  1  Histidinol dehydrogenase signature
+PDOC00045  1  Histone H2A signature
+PDOC00308  1  Histone H2B signature
+PDOC00287  2  Histone H3 signatures
+PDOC00046  1  Histone H4 signature
+PDOC00694  2  HIT domain signature and profile
+PDOC00469  1  HlyD family secretion proteins signature
+PDOC00305  2  HMG boxes A and B DNA-binding domains signature and profile
+PDOC00306  1  HMG-I and HMG-Y DNA-binding domain (A+T-hook)
+PDOC00307  1  HMG14 and HMG17 signature
+PDOC00481  1  Hok/gef family cell toxic proteins signature
+PDOC51818  1  Homeo-Prospero (HPD) domain profile
+PDOC00032  1  'Homeobox' antennapedia-type protein signature
+PDOC00027  2  'Homeobox' domain signature and profile
+PDOC00033  1  'Homeobox' engrailed-type protein signature
+PDOC50970  1  Homocysteine-binding domain profile
+PDOC00800  1  Homoserine dehydrogenase signature
+PDOC50815  1  HORMA domain profile
+PDOC51770  1  HotDog acyl-CoA thioesterase (ACOT)-type domain profile
+PDOC50967  1  HRDC domain profile
+PDOC51204  1  HSA domain profile
+PDOC51791  1  hSac2 domain profile
+PDOC00381  1  HSF-type DNA-binding domain signature
+PDOC51414  1  HSR domain profile
+PDOC60021  1  Huwentoxin-1 family signature
+PDOC60022  1  Huwentoxin-2 family signature
+PDOC51118  1  HxlR-type HTH domain profile
+PDOC00841  1  Hydrogenases expression/synthesis hupF/hypC family signature
+PDOC00962  1  Hydrogenases expression/synthesis hypA family signature
+PDOC00813  1  Hydroxymethylglutaryl-coenzyme A lyase active site
+PDOC00064  4  Hydroxymethylglutaryl-coenzyme A reductase signatures and profile
+PDOC00942  1  Hydroxymethylglutaryl-coenzyme A synthase active site
+PDOC00944  2  Hypothetical cof family signatures
+PDOC00887  1  Hypothetical hesB/yadR/yfhF family signature
+PDOC50825  1  HYR domain profile
+PDOC50945  1  I/LWEQ domain profile
+PDOC51214  1  IBB domain profile
+PDOC00807  2  IclR-type HTH and iclR effector binding domains profiles
+PDOC50835  1  Ig-like domain profile
+PDOC51338  1  IMD domain profile
+PDOC00738  2  Imidazoleglycerol-phosphate dehydratase signatures
+PDOC00262  1  Immunoglobulins and major histocompatibility complex proteins signature
+PDOC00391  1  IMP dehydrogenase / GMP reductase signature
+PDOC50166  1  Importin-beta N-terminal domain profile
+PDOC00536  1  Indole-3-glycerol phosphate synthase signature
+PDOC00684  2  Indoleamine 2,3-dioxygenase signatures
+PDOC00905  1  Initiation factor 2 signature
+PDOC00723  1  Initiation factor 3 signature
+PDOC00325  1  Inorganic pyrophosphatase signature
+PDOC00960  1  Inosine-uridine preferring nucleoside hydrolase family signature
+PDOC00547  2  Inositol monophosphatase family signatures
+PDOC00235  1  Insulin family signature
+PDOC00194  2  Insulin-like growth factor binding protein (IGFBP) N-terminal domain signature and profile
+PDOC00130  1  Insulinase family, zinc-binding region signature
+PDOC50994  1  Integrase catalytic domain profile
+PDOC51027  1  Integrase DNA binding domain profile
+PDOC00215  1  Integrins alpha chain signature
+PDOC00216  1  Integrins beta chain cysteine-rich domain signature
+PDOC50819  1  Intein DOD-type homing endonuclease domain profile
+PDOC00687  2  Intein N- and C-terminal splicing motif profiles
+PDOC00225  1  Interferon alpha, beta and delta family signature
+PDOC00226  1  Interleukin-1 signature
+PDOC00450  1  Interleukin-10 family signature
+PDOC00349  1  Interleukin-2 signature
+PDOC00227  1  Interleukin-6 / G-CSF / MGF family signature
+PDOC00228  1  Interleukin-7 and -9 signature
+PDOC00655  1  Interleukins -4 and -13 signature
+PDOC00198  2  Intermediate filament (IF) rod domain signature and profile
+PDOC00079  1  Intradiol ring-cleavage dioxygenases signature
+PDOC51688  1  Intramolecular chaperone auto-processing (ICA) domain profile
+PDOC00356  1  Invertebrate defensins family profile
+PDOC00632  1  Involucrin signature
+PDOC00925  1  Iodothyronine deiodinases active site
+PDOC50096  1  IQ motif profile
+PDOC00522  2  IRF tryptophan pentad repeat DNA-binding domain signature and profile
+PDOC51716  1  IRG-type guanine nucleotide-binding (G) domain profile
+PDOC50983  1  Iron siderophore/cobalamin periplasmic-binding domain profile
+PDOC00059  2  Iron-containing alcohol dehydrogenases signatures
+PDOC51064  1  IRS-type phosphotyrosine binding domain (PTB) profile
+PDOC50531  2  IS21/IS408 transposase-types HTH domains profiles
+PDOC00389  1  Isocitrate and isopropylmalate dehydrogenases signature
+PDOC00145  1  Isocitrate lyase signature
+PDOC00165  2  Isopenicillin N synthase signatures
+PDOC51055  2  ITAM motif profiles
+PDOC00553  3  J-protein family domains signature and profiles
+PDOC51752  1  Jacalin-type lectin domain profile
+PDOC60020  1  Janus-faced atracotoxin (J-ACTX) family signature
+PDOC51183  2  JmjN and JmjC domains profiles
+PDOC50957  1  Josephin domain profile
+PDOC51297  1  K-box domain profile
+PDOC51430  2  KaiA N- and C-terminal domain profiles
+PDOC51146  1  KaiC domain profile
+PDOC51850  2  KARI N- and C-terminal domains profiles
+PDOC51049  1  KASH domain profile
+PDOC00254  2  Kazal serine protease inhibitors family signature and profile
+PDOC51488  1  KBD domain profile
+PDOC00144  2  KDPG and KHG aldolases active site signatures
+PDOC51392  1  KEN domain profile
+PDOC50084  2  KH domain profiles
+PDOC51490  1  KHA domain profile
+PDOC50953  1  KID domain profile
+PDOC51301  1  KilA-N domain profile
+PDOC50032  1  Kinase associated domain 1 (KA1) profile
+PDOC51377  1  KIND domain profile
+PDOC00893  1  Kinesin light chain repeat
+PDOC00343  2  Kinesin motor domain signature and profile
+PDOC51647  1  Kininogen-type cystatin domain profile
+PDOC50952  1  KIX domain profile
+PDOC50806  1  KRAB-related domain profile
+PDOC00020  2  Kringle domain signature and profile
+PDOC50805  1  Krueppel-associated box (KRAB) profile
+PDOC00062  1  L-lactate dehydrogenase active site
+PDOC51328  1  L-type lectin-like (leguminous) domain profile
+PDOC51022  1  L27 domain profile
+PDOC50961  1  La-type HTH domain profile
+PDOC00366  2  LacI-type HTH domain signature and profile
+PDOC00698  2  LacY family proton/sugar symporters signatures
+PDOC00478  1  Lambdoid phages regulatory protein CIII signature
+PDOC51841  1  Lamin-tail (LTD) domain profile
+PDOC50025  1  Laminin G domain profile
+PDOC51115  2  Laminin IV domain profiles
+PDOC51117  1  Laminin N-terminal (LN) domain profile
+PDOC00961  2  Laminin-type EGF-like (LE) domain signature and profile
+PDOC51287  1  Large T-antigen (T-ag) origin-binding domain (OBD) profile
+PDOC01030  1  Large-conductance mechanosensitive channels mscL family signature
+PDOC00367  1  LBP / BPI / CETP family signature
+PDOC50820  1  LCCL domain profile
+PDOC00929  2  LDL-receptor class A (LDLRA) domain signature and profile
+PDOC51120  1  LDL-receptor class B (LDLRB) repeat profile
+PDOC50231  1  Lectin domain of ricin B chain profile
+PDOC00278  2  Legume lectins signatures
+PDOC50954  2  LEM and LEM-like domain profiles
+PDOC51758  1  Letm1 ribosome-binding (RBD) domain profile
+PDOC51450  1  Leucine rich repeat profile
+PDOC00029  1  Leucine zipper pattern
+PDOC00509  1  LIF / OSM family signature
+PDOC00382  2  LIM zinc-binding domain signature and profile
+PDOC00955  2  Link domain signature and profile
+PDOC51504  1  Linker histone H1/H5 globular (H15) domain profile
+PDOC00110  1  Lipases, serine active site
+PDOC01017  1  LipB octanoyltransferase signature
+PDOC00187  1  Lipocalin signature
+PDOC00842  1  Lipolytic enzymes "G-D-S-L" family, serine active site
+PDOC00903  2  Lipolytic enzymes "G-D-X-G" family, putative active sites signatures
+PDOC00077  3  Lipoxygenase iron-binding catalytic domain signatures and profile
+PDOC50896  2  LIS1 homology (LisH) motif and C-terminal to LisH (CTLH) motif profiles
+PDOC51837  1  LITAF domain profile
+PDOC50258  1  LNR (Lin-12/Notch) repeat profile
+PDOC50891  1  LOB domain profile
+PDOC51787  1  Lon N-terminal domain profile
+PDOC51786  1  Lon proteolytic domain profile
+PDOC01051  1  Long hematopoietin receptor, gp130 family signature
+PDOC01050  1  Long hematopoietin receptor, single chain family signature
+PDOC01052  1  Long hematopoietin receptor, soluble alpha chains family signature
+PDOC50859  1  Longin domain profile
+PDOC00542  2  LuxR-type HTH domain signature and profile
+PDOC51756  1  LXG domain profile
+PDOC00756  1  Ly-6 / u-PAR domain signature
+PDOC51782  1  LysM domain profile
+PDOC00280  3  Lysosome-associated membrane glycoprotein family signatures and profile
+PDOC00043  1  LysR-type HTH domain profile
+PDOC01028  1  Lysyl hydroxylase signature
+PDOC00716  1  Lysyl oxidase putative copper-binding region signature
+PDOC50930  1  LytTR-type HTH domain profile
+PDOC51498  1  MABP domain profile
+PDOC51154  1  Macro domain profile
+PDOC00892  1  Macrophage migration inhibitory factor family signature
+PDOC51075  2  MAD homology domains MH1 and MH2 profiles
+PDOC51029  1  MADF domain profile
+PDOC00302  2  MADS-box domain signature and profile
+PDOC50838  1  MAGE conserved domain profile
+PDOC50850  1  Major facilitator superfamily (MFS) profile
+PDOC50202  1  Major sperm protein (MSP) domain profile
+PDOC00066  1  Malate dehydrogenase active site signature
+PDOC00441  1  Malate synthase signature
+PDOC00294  1  Malic enzymes signature
+PDOC00604  2  MAM domain signature and profile
+PDOC00242  1  Mammalian defensins signature
+PDOC00706  2  Mandelate racemase / muconate lactonizing enzyme family signatures
+PDOC00083  1  Manganese and iron superoxide dismutases signature
+PDOC00751  1  Mannitol dehydrogenases signature
+PDOC50986  1  MANSC domain profile
+PDOC01049  1  MAP kinase signature
+PDOC51223  1  MAP repeat profile
+PDOC00649  2  MARCKS family signatures
+PDOC00861  2  MarR-type HTH domain signature and profile
+PDOC51225  1  MARVEL domain profile
+PDOC50144  1  MATH/TRAF domain profile
+PDOC00472  1  Matrixins cysteine switch
+PDOC51079  1  MBT repeat profile
+PDOC00662  2  MCM family signature and profile
+PDOC00251  2  Membrane attack complex/perforin (MACPF) domain signature and profile
+PDOC51439  1  MENTAL domain profile
+PDOC00477  2  MerR-type HTH domain signature and profile
+PDOC00575  2  Methionine aminopeptidase signatures
+PDOC51790  1  Methionine-R-sulfoxide reductase (MsrB) domain profile
+PDOC50982  1  Methyl-CpG-binding domain (MBD) profile
+PDOC00320  1  Methylated-DNA--protein-cysteine methyltransferase active site
+PDOC01037  1  Methylglyoxal synthase active site
+PDOC00470  1  Methylmalonyl-CoA mutase signature
+PDOC00984  2  Methylthiotransferase domain signature and profile
+PDOC51855  1  MGS-like domain profile
+PDOC50924  1  MHYT domain profile
+PDOC51366  1  MI domain profile
+PDOC51416  1  MIB/HERC2 domain profile
+PDOC00299  1  Microbodies C-terminal targeting signal
+PDOC00193  1  MIP family signature
+PDOC50919  1  MIR domain profile
+PDOC51793  1  Mis18 domain profile
+PDOC01009  1  moaA / nifB / pqqE family signature
+PDOC00828  2  Molybdenum cofactor biosynthesis proteins signatures
+PDOC51340  1  MOSC domain profile
+PDOC50249  1  MPN domain profile
+PDOC01046  2  MraY family signatures
+PDOC51640  1  MRG domain profile
+PDOC51562  1  mRNA cap 0 methyltransferase domain profile
+PDOC00935  1  Mrp family signature
+PDOC51796  1  MSS4 domain profile
+PDOC51143  1  MT-A70-like family profile
+PDOC51072  1  Mu homology domain (MHD) profile
+PDOC60015  1  Mu-agatoxin family signature
+PDOC51702  1  Mu-type HTH domain profile
+PDOC00076  2  Multicopper oxidases signatures
+PDOC51258  2  Munc13-homology domains 1 and 2 (MHD1 and MHD2) profiles
+PDOC51224  1  MVP (vault) repeat profile
+PDOC00037  2  Myb-type HTH DNA-binding domain profiles
+PDOC00038  1  Myc-type, basic helix-loop-helix (bHLH) domain profile
+PDOC00492  1  Myelin basic protein signature
+PDOC00491  1  Myelin P0 protein signature
+PDOC00497  2  Myelin proteolipid protein signatures
+PDOC51456  1  Myosin motor domain profile
+PDOC51844  1  Myosin N-terminal SH3-like domain profile
+PDOC00435  2  Myotoxins family signature and profile
+PDOC51339  1  Myotubularin phosphatase domain
+PDOC00752  2  Myristoyl-CoA:protein N-myristoyltransferase signatures
+PDOC51726  1  MYST-type histone acetyltransferase (HAT) domain profile
+PDOC51016  1  MyTH4 domain profile
+PDOC00088  1  N-4 cytosine-specific DNA methylases signature
+PDOC00087  1  N-6 Adenine-specific DNA methylases signature
+PDOC00941  1  N-acetyl-gamma-glutamyl-phosphate reductase active site
+PDOC00001  1  N-glycosylation site
+PDOC00008  1  N-myristoylation site
+PDOC51151  1  NAC A/B domain profile
+PDOC51005  1  NAC domain profile
+PDOC50837  1  NACHT-NTPase domain profile
+PDOC00809  2  NAD-dependent DNA ligase signatures
+PDOC00740  1  NAD-dependent glycerol-3-phosphate dehydrogenase signature
+PDOC00993  1  NAD:arginine ADP-ribosyltransferase signature
+PDOC51300  1  NADH-nitrite reductase subunit D family profile
+PDOC50816  1  NAF domain profile
+PDOC00430  1  Natriuretic peptides receptors signature
+PDOC00236  1  Natriuretic peptides signature
+PDOC51487  1  NBD domain profile
+PDOC51517  1  NDT80 DNA-binding domain profile
+PDOC50978  1  NEAT domain profile
+PDOC51216  1  Nebulin repeat profile
+PDOC50965  1  NERD domain profile
+PDOC00221  2  Nerve growth factor family signature and profile
+PDOC51525  1  NET domain profile
+PDOC51774  1  Networked (NET) actin-binding (NAB) domain profile
+PDOC51065  1  Neuralized homology repeat (NHR) domain profile
+PDOC00202  1  Neuraxin and MAP1B proteins repeated region signature
+PDOC51316  1  Neuroblastoma breakpoint family (NBPF) domain profile
+PDOC00237  1  Neurohypophysial hormones signature
+PDOC00747  1  Neuromedin U signature
+PDOC00344  2  Neuromodulin (GAP-43) signatures
+PDOC00209  1  Neurotransmitter-gated ion-channels signature
+PDOC00129  1  Neutral zinc metallopeptidases, zinc-binding region signature
+PDOC00924  2  NF-kappa-B/Rel/dorsal domain signature and profile
+PDOC00578  3  NF-Y/HAP subunits signatures and profile
+PDOC51125  1  NHL repeat profile
+PDOC00688  2  Nickel-dependent hydrogenases b-type cytochrome subunit signatures
+PDOC00400  2  Nickel-dependent hydrogenases large subunit signatures
+PDOC51142  1  Nicotianamine synthase (NAS)-like family profile
+PDOC51220  1  NIDO domain profile
+PDOC50993  1  Nidogen G2 beta-barrel domain profile
+PDOC51652  2  Nidoviruses zinc-binding (ZBD) domain profiles
+PDOC00580  3  NifH/frxC family signatures and profile
+PDOC50906  1  Nitrate and nitrite sensing (NIT) domain profile
+PDOC60001  1  Nitric oxide synthase (NOS) signature
+PDOC00712  2  Nitrilases / cyanide hydratase signatures
+PDOC00314  1  Nitrite and sulfite reductases iron-sulfur/siroheme-binding site
+PDOC00085  2  Nitrogenases component 1 alpha and beta subunits signatures
+PDOC00844  1  NNMT/PNMT/TEMT family of methyltransferases signature
+PDOC51677  1  NodB homology domain profile
+PDOC01047  1  Nodulation protein nodA signature
+PDOC00888  1  NOL1/NOP2/sun family signature
+PDOC51358  1  Nop domain profile
+PDOC51537  1  Norovirus 3C-like protease (NV 3CLpro) domain profile
+PDOC51649  1  NPH3 domain profile
+PDOC51121  1  NtA (N-terminal agrin) domain profile
+PDOC50189  1  NTR domain profile
+PDOC00031  2  Nuclear hormone receptors DNA-binding domain signature and profile
+PDOC51843  1  Nuclear receptor (NR) ligand-binding (LBD) domain profile
+PDOC00467  1  Nuclear transition protein 1 signature
+PDOC00749  2  Nuclear transition protein 2 signatures
+PDOC50177  1  Nuclear transport factor 2 domain profile
+PDOC00409  1  Nucleoside diphosphate kinases active site
+PDOC00695  3  Nudix hydrolase domain signatures and profile
+PDOC51434  1  NUP C-terminal domain profile
+PDOC50803  1  OAR domain profile
+PDOC51710  1  OBG-type guanine nucleotide-binding (G) domain profile
+PDOC00639  1  Oleosins signature
+PDOC51132  1  Olfactomedin-like domain profile
+PDOC60023  1  Omega-agatoxin type II and III signature
+PDOC60016  2  Omega-atracotoxin (ACTX) families signatures
+PDOC00819  2  OmpA-like domain signature and profile
+PDOC51755  1  OmpR/PhoB-type DNA-binding domain profile
+PDOC51773  1  Orange carotenoid protein (OCP) N-terminal domain profile
+PDOC51054  1  Orange domain profile
+PDOC00685  2  Orn/DAP/Arg decarboxylases family 2 signatures
+PDOC00585  1  Orn/Lys/Arg decarboxylases family 1 pyridoxal-phosphate attachment site
+PDOC01039  1  Ornithine decarboxylase antizyme signature
+PDOC00141  1  Orotidine 5'-phosphate decarboxylase active site
+PDOC51644  1  OST-type HTH domain profile
+PDOC00535  2  Osteonectin domain signatures
+PDOC00689  1  Osteopontin signature
+PDOC50802  1  OTU domain profile
+PDOC51754  1  OVATE domain profile
+PDOC00674  1  Oxygen oxidoreductases covalent FAD-binding site
+PDOC00774  1  Oxysterol-binding protein family signature
+PDOC00439  3  P-II protein family signatures and profile
+PDOC00024  2  P-type ('Trefoil') domain signature and profile
+PDOC00139  1  P-type ATPases phosphorylation site
+PDOC51829  1  P/Homo B domain profile
+PDOC00301  1  p53 family signature
+PDOC51820  1  PA14 domain profile
+PDOC51446  1  Pacifastin domain profile
+PDOC51477  1  PAH domain profile
+PDOC00034  2  Paired domain signature and profile
+PDOC00376  2  PAN/apple domain signature and profile
+PDOC00238  2  Pancreatic hormone family signature and profile
+PDOC00118  1  Pancreatic ribonuclease family signature
+PDOC00252  2  Pancreatic trypsin inhibitor (Kunitz) family signature and profile
+PDOC51013  1  Pannexin family profile
+PDOC00296  1  Parathyroid hormone family signature
+PDOC51059  2  PARP catalytic and alpha-helical domains profiles
+PDOC50112  2  PAS repeat and PAC domain profiles
+PDOC51178  1  PASTA domain profile
+PDOC51635  1  Patatin-like phospholipase (PNPLA) domain profile
+PDOC00437  1  Pathogenesis-related proteins Bet v I family signature
+PDOC51398  1  PAW domain profile
+PDOC50821  1  PAZ domain profile
+PDOC51745  1  PB1 domain profile
+PDOC50250  1  PCI domain profile
+PDOC51387  1  PCMH-type FAD-binding domain profile
+PDOC00000  0  PDOC00000
+PDOC00949  2  PdxS/SNZ family signature and profile
+PDOC00950  2  PdxT/SNO family signature and profile
+PDOC50106  1  PDZ domain profile
+PDOC00413  2  Pectinesterase signatures
+PDOC51375  1  Pentatricopeptide (PPR) repeat profile
+PDOC00261  2  Pentraxin (PTX) domain signature and profile
+PDOC00527  2  PEP-utilizing enzymes signatures
+PDOC51817  1  Peptidase family A3B domain profile
+PDOC51124  1  Peptidase family C16 domain profile
+PDOC51738  1  Peptidase family C21 domain profile
+PDOC51492  1  Peptidase family C23 domain profile
+PDOC50990  1  Peptidase family C39 domain profile
+PDOC51723  1  Peptidase family M60 domain profile
+PDOC51694  1  Peptidase family M66 domain profile
+PDOC51691  1  Peptidase family S6 domain profile
+PDOC00982  1  Peptidase family U32 signature
+PDOC00920  2  Peptidyl-tRNA hydrolase signatures
+PDOC51826  1  Peripheral subunit-binding (PSBD) domain profile
+PDOC00719  1  Peripherin / rom-1 signature
+PDOC51692  1  Pestivirus nonstructural protein 2 (NS2) protease domain profile
+PDOC51535  1  Pestivirus NS3 protease (NS3pro) domain profile
+PDOC51303  1  PET domain profile
+PDOC00504  2  pfkB family of carbohydrate kinases signatures
+PDOC51276  1  PfpI endopeptidase domain profile
+PDOC51394  1  PFU domain profile
+PDOC51852  2  pG1 and pG2 pseudoGTPase domains profiles
+PDOC50003  1  PH domain profile
+PDOC00424  1  Phenylalanine and histidine ammonia-lyases active site
+PDOC00103  3  Phosphagen kinase active site signature and N- and C-terminal domain profiles
+PDOC01019  1  Phosphatidate cytidylyltransferase signature
+PDOC00938  1  Phosphatidylethanolamine-binding protein family signature
+PDOC00710  3  Phosphatidylinositol 3- and 4-kinases signatures and profile
+PDOC51544  1  Phosphatidylinositol 3-kinase adaptor-binding (PI3K ABD) domain profile
+PDOC51547  1  Phosphatidylinositol 3-kinase C2 (PI3K C2) domain profile
+PDOC51546  1  Phosphatidylinositol 3-kinase Ras-binding (PI3K RBD) domain profiles
+PDOC51545  1  Phosphatidylinositol kinase (PIK) helical domain profile
+PDOC51455  1  Phosphatidylinositol phosphate kinase (PIPK) domain profile
+PDOC50007  2  Phosphatidylinositol-specific phospholipase C profiles
+PDOC00460  1  Phosphoenolpyruvate carboxykinase (ATP) signature
+PDOC00421  1  Phosphoenolpyruvate carboxykinase (GTP) signature
+PDOC00330  2  Phosphoenolpyruvate carboxylase active sites
+PDOC00336  1  Phosphofructokinase signature
+PDOC00589  1  Phosphoglucomutase and phosphomannomutase phosphoserine signature
+PDOC00102  1  Phosphoglycerate kinase signature
+PDOC00158  1  Phosphoglycerate mutase family phosphohistidine signature
+PDOC60002  2  Phosphoketolase signatures
+PDOC00109  2  Phospholipase A2 active sites signatures
+PDOC50035  1  Phospholipase D phosphodiesterase active site profile
+PDOC00746  2  Phosphomannose isomerase type I signatures
+PDOC00105  1  Phosphoribosyl pyrophosphate synthase signature
+PDOC00319  1  Phosphoribosylglycinamide formyltransferase active site
+PDOC00164  1  Phosphoribosylglycinamide synthetase signature
+PDOC00490  1  Phosphoribulokinase signature
+PDOC00095  1  Phosphorylase pyridoxal-phosphate attachment site
+PDOC01026  2  Phosphotriesterase family signature and profile
+PDOC00907  1  Phosphotyrosine interaction domain (PID) profile
+PDOC51645  1  Photolyase/cryptochrome alpha/beta domain profile
+PDOC00217  1  Photosynthetic reaction center proteins signature
+PDOC00347  1  Photosystem I psaA and psaB proteins signature
+PDOC00786  1  Photosystem I psaG and psaK proteins signature
+PDOC51445  1  Phycobilisome (PBS) linker domain profile
+PDOC51443  1  Phytochelatin synthase (PCS) domain profile
+PDOC00218  2  Phytochrome chromophore attachment site
+PDOC51485  1  Phytocyanin domain profile
+PDOC51466  1  PINIT domain profile
+PDOC51532  1  PITH domain profile
+PDOC50822  1  Piwi domain profile
+PDOC51210  1  PLA2c domain profile
+PDOC50900  1  PLAC domain profile
+PDOC60011  1  Plant C6 type antimicrobial peptide (AMP) signature
+PDOC00183  1  Plant hemoglobins signature
+PDOC00516  1  Plant lipid transfer proteins signature
+PDOC00244  1  Plant thionins signature
+PDOC00480  1  Plant viruses icosahedral capsid proteins 'S' region signature
+PDOC50095  1  PLAT domain profile
+PDOC00222  2  Platelet-derived growth factor (PDGF) family signature and profile
+PDOC51360  1  Plus3 domain profile
+PDOC00939  2  PMP-22 / EMP / MP20 family signatures
+PDOC51433  1  Pointed (PNT) domain profile
+PDOC00715  1  Pollen proteins Ole e I family signature
+PDOC50078  1  POLO box domain profile
+PDOC51309  1  Poly(A)-binding protein C-terminal (PABC) domain profile
+PDOC00360  2  Poly(ADP-ribose) polymerase zinc finger domain
+PDOC01033  2  Polyamine biosynthesis (PABS) domain signature and profile
+PDOC50093  1  Polycystic kidney disease (PKD) domain profile
+PDOC00415  1  Polygalacturonase active site
+PDOC00407  2  Polyprenyl synthases signatures
+PDOC00461  1  Porphobilinogen deaminase cofactor-binding site
+PDOC00257  1  Potato inhibitor I family signature
+PDOC00346  1  Potexviruses and carlaviruses coat protein signature
+PDOC51779  1  POTRA domain profile
+PDOC51436  1  Potyvirus NIa protease (NIa-pro) domain profile
+PDOC00035  3  POU-specific (POUs) domain signatures and profile
+PDOC51742  1  PPC domain profile
+PDOC00840  2  PpiC-type peptidyl-prolyl cis-trans isomerase signature and profile
+PDOC00792  2  PPM-type phosphatase domain signature and profile
+PDOC51858  1  PPPDE domain profile
+PDOC00562  2  PRD domain profile and signature
+PDOC50280  3  Pre-SET, post-SET and SET domain profiles
+PDOC51014  1  Precorrin-6x reductase domain profile
+PDOC50904  1  PRELI/MSF1 domain profile
+PDOC00266  1  Prenyl group binding site (CAAX box)
+PDOC00671  3  Prephenate dehydratase domain signatures and profile
+PDOC51176  1  Prephenate/arogenate dehydrogenase domain profile
+PDOC00263  2  Prion protein signatures
+PDOC00372  1  Profilin signature
+PDOC00820  1  Prokaryotic diacylglycerol kinase signature
+PDOC00846  2  Prokaryotic dksA C4-type zinc finger signature and profile
+PDOC00333  1  Prokaryotic DNA topoisomerase I active site
+PDOC00013  1  Prokaryotic membrane lipoprotein lipid attachment site profile
+PDOC00392  4  Prokaryotic molybdopterin oxidoreductases signatures and 4Fe-4S domain profile
+PDOC00342  1  Prokaryotic N-terminal methylation site
+PDOC00337  2  Prokaryotic sulfate- and thiosulfate-binding proteins signatures
+PDOC00651  2  Prokaryotic transcription elongation factors signatures
+PDOC00713  1  Prokaryotic transglycosylases signature
+PDOC00357  2  Prokaryotic zinc-dependent phospholipase C domain signature and profile
+PDOC00586  2  Prokaryotic-type carbonic anhydrases signatures
+PDOC00607  1  Prokaryotic-type class I peptide chain release factors signature
+PDOC00265  2  Proliferating cell nuclear antigen signatures
+PDOC01015  1  Prolipoprotein diacylglyceryl transferase signature
+PDOC00587  1  Prolyl oligopeptidase family serine active site
+PDOC51334  1  PRONE domain profile
+PDOC00047  1  Protamine P1 signature
+PDOC00326  2  Proteasome alpha-type subunit signature and profile
+PDOC00668  2  Proteasome beta-type subunit signature and profile
+PDOC00005  1  Protein kinase C phosphorylation site
+PDOC00100  4  Protein kinases signatures and profile
+PDOC00785  2  Protein phosphatase 2A regulatory subunit PR55 signatures
+PDOC00703  1  Protein prenyltransferases alpha subunit repeat profile
+PDOC00818  1  Protein secE/sec61-gamma signature
+PDOC00612  2  Protein secY signatures
+PDOC00985  1  Protein-L-isoaspartate(D-aspartate) O-methyltransferase signature
+PDOC00933  1  Protozoan/cyanobacterial globins signature
+PDOC51411  1  PSP1 C-terminal domain profile
+PDOC50960  1  Psq-type HTH domain profile
+PDOC50972  1  Pterin-binding domain profile
+PDOC00540  2  PTN/MK heparin-binding protein family signatures
+PDOC00784  2  PTR2 family proton/oligopeptide symporters signatures
+PDOC00528  7  PTS EIIA domain profiles and phosphorylation site signatures
+PDOC00795  6  PTS EIIB domain profiles and cysteine phosphorylation site signature
+PDOC51103  5  PTS EIIC domain profiles
+PDOC51108  1  PTS EIID domain profile
+PDOC00318  3  PTS HPr domain profile and phosphorylation sites signatures
+PDOC50890  1  PUA domain profile
+PDOC51396  1  PUL domain profile
+PDOC50302  2  Pumilio RNA-binding repeat and homology domain profiles
+PDOC00946  1  Purine and other phosphorylases family 1 signature
+PDOC00954  1  Purine and other phosphorylases family 2 signature
+PDOC00096  1  Purine/pyrimidine phosphoribosyl transferases signature
+PDOC00427  1  Putative AMP-binding domain signature
+PDOC51025  1  PWI domain profile
+PDOC50812  1  PWWP domain profile
+PDOC50195  1  PX domain profile
+PDOC51207  1  PXA domain profile
+PDOC00073  1  Pyridine nucleotide-disulphide oxidoreductases class-I active site
+PDOC00496  1  Pyridine nucleotide-disulphide oxidoreductases class-II active site
+PDOC00815  1  Pyridoxamine 5'-phosphate oxidase signature
+PDOC00466  1  Pyrokinins signature
+PDOC01036  2  Pyrrolidone-carboxylate peptidase active sites
+PDOC50991  1  Pyruvate carboxyltransferase domain profile
+PDOC51554  1  Pyruvate formate lyase (PFL) domain profile
+PDOC00101  1  Pyruvate kinase active site signature
+PDOC51666  1  QLQ domain profile
+PDOC51370  1  R domain profile
+PDOC51061  1  R3H domain profile
+PDOC50916  1  Rab-binding domain profile
+PDOC51131  1  Rad50 zinc-hook domain profile
+PDOC00834  1  Radical activating enzymes signature
+PDOC50196  1  Ran binding domain type 1 profile
+PDOC51286  1  RAP domain profile
+PDOC50085  1  Rap GTPase activating proteins domain profile
+PDOC00438  2  Ras GTPase-activating proteins signature and profile
+PDOC00594  3  Ras guanine-nucleotide exchange factors domain signature and profiles
+PDOC50200  1  Ras-associating (RA) domain profile
+PDOC50898  1  Ras-binding domain (RBD) profile
+PDOC51201  2  RCK N-terminal and C-terminal domain profiles
+PDOC00131  3  recA family signature and profiles
+PDOC00212  1  Receptor tyrosine kinase class II signature
+PDOC00213  1  Receptor tyrosine kinase class III signature
+PDOC00629  2  Receptor tyrosine kinase class V signatures
+PDOC00539  2  recF protein signatures
+PDOC01004  1  recR protein signature
+PDOC51019  1  Reelin domain profile
+PDOC00544  3  Regulator of chromosome condensation (RCC1) signatures and profile
+PDOC51111  1  REJ domain profile
+PDOC51486  1  REKLES domain profile
+PDOC51860  1  REM-1 domain profile
+PDOC00678  2  Renal dipeptidase family signature and profile
+PDOC00858  1  Respiratory-chain NADH dehydrogenase 20 Kd subunit signature
+PDOC00843  1  Respiratory-chain NADH dehydrogenase 24 Kd subunit signature
+PDOC00468  1  Respiratory-chain NADH dehydrogenase 30 Kd subunit signature
+PDOC00521  1  Respiratory-chain NADH dehydrogenase 49 Kd subunit signature
+PDOC00555  2  Respiratory-chain NADH dehydrogenase 51 Kd subunit signatures
+PDOC00554  3  Respiratory-chain NADH dehydrogenase 75 Kd subunit signatures
+PDOC00570  2  Respiratory-chain NADH dehydrogenase subunit 1 signatures
+PDOC50110  1  Response regulatory domain profile
+PDOC50845  1  Reticulon domain profile
+PDOC50878  1  Reverse transcriptase (RT) catalytic domain profile
+PDOC51526  1  RFX-type winged-helix DNA-binding domain profile
+PDOC50132  1  RGS domain profile
+PDOC51776  1  RH1 domain profile
+PDOC51777  1  RH2 domain profile
+PDOC50238  1  Rho GTPase-activating proteins domain profile
+PDOC51232  1  Rho GTPase-binding/formin homology 3 (GBD/FH3) domain profile
+PDOC51856  1  Rho RNA-binding (RNA-BD) domain profile
+PDOC51859  1  Rho-binding (RhoBD) domain profile
+PDOC00322  3  Rhodanese signatures and profile
+PDOC00581  1  Riboflavin synthase alpha chain lumazine-binding repeat profile
+PDOC50879  1  Ribonuclease H domain profile
+PDOC00904  1  Ribonuclease II family signature
+PDOC00448  2  Ribonuclease III family signature and profile
+PDOC00983  1  Ribonuclease PH signature
+PDOC00459  2  Ribonuclease T2 family histidine active sites
+PDOC00084  1  Ribonucleotide reductase large subunit signature
+PDOC00317  1  Ribonucleotide reductase small subunit signature
+PDOC00922  1  Ribosomal protein L1 signature
+PDOC00853  1  Ribosomal protein L10 signature
+PDOC00968  1  Ribosomal protein L10e signature
+PDOC00310  1  Ribosomal protein L11 signature
+PDOC00625  1  Ribosomal protein L13 signature
+PDOC00848  1  Ribosomal protein L13e signature
+PDOC00048  1  Ribosomal protein L14 signature
+PDOC00386  1  Ribosomal protein L15 signature
+PDOC00919  1  Ribosomal protein L15e signature
+PDOC00506  2  Ribosomal protein L16 signatures
+PDOC00897  1  Ribosomal protein L17 signature
+PDOC00850  1  Ribosomal protein L18e signature
+PDOC00778  1  Ribosomal protein L19 signature
+PDOC00455  1  Ribosomal protein L19e signature
+PDOC00724  1  Ribosomal protein L1e signature
+PDOC00384  1  Ribosomal protein L2 signature
+PDOC00722  1  Ribosomal protein L20 signature
+PDOC00899  1  Ribosomal protein L21 signature
+PDOC00901  1  Ribosomal protein L21e signature
+PDOC00387  1  Ribosomal protein L22 signature
+PDOC00049  1  Ribosomal protein L23 signature
+PDOC00852  1  Ribosomal protein L24 signature
+PDOC00824  1  Ribosomal protein L24e signature
+PDOC00652  1  Ribosomal protein L27 signature
+PDOC00851  1  Ribosomal protein L27e signature
+PDOC00501  1  Ribosomal protein L29 signature
+PDOC00385  1  Ribosomal protein L3 signature
+PDOC00551  1  Ribosomal protein L30 signature
+PDOC00588  2  Ribosomal protein L30e signatures
+PDOC00880  1  Ribosomal protein L31 signature
+PDOC00881  1  Ribosomal protein L31e signature
+PDOC00502  1  Ribosomal protein L32e signature
+PDOC00503  1  Ribosomal protein L33 signature
+PDOC00626  1  Ribosomal protein L34 signature
+PDOC00882  1  Ribosomal protein L34e signature
+PDOC00721  1  Ribosomal protein L35 signature
+PDOC00849  1  Ribosomal protein L35Ae signature
+PDOC00650  1  Ribosomal protein L36 signature
+PDOC00916  1  Ribosomal protein L36e signature
+PDOC00827  1  Ribosomal protein L37e signature
+PDOC00050  1  Ribosomal protein L39e signature
+PDOC00902  1  Ribosomal protein L44e signature
+PDOC00309  1  Ribosomal protein L5 signature
+PDOC00454  2  Ribosomal protein L6 signatures
+PDOC00900  1  Ribosomal protein L6e signature
+PDOC00831  1  Ribosomal protein L7Ae signature
+PDOC00560  1  Ribosomal protein L9 signature
+PDOC00312  1  Ribosomal protein S10 signature
+PDOC00053  1  Ribosomal protein S11 signature
+PDOC00054  1  Ribosomal protein S12 signature
+PDOC00915  1  Ribosomal protein S12e signature
+PDOC00556  2  Ribosomal protein S13 signature and profile
+PDOC00456  1  Ribosomal protein S14 signature
+PDOC00313  1  Ribosomal protein S15 signature
+PDOC00600  1  Ribosomal protein S16 signature
+PDOC00055  1  Ribosomal protein S17 signature
+PDOC00590  1  Ribosomal protein S17e signature
+PDOC00056  1  Ribosomal protein S18 signature
+PDOC00288  1  Ribosomal protein S19 signature
+PDOC00546  1  Ribosomal protein S19e signature
+PDOC00744  2  Ribosomal protein S2 signatures
+PDOC00909  1  Ribosomal protein S21 signature
+PDOC00764  1  Ribosomal protein S21e signature
+PDOC00458  1  Ribosomal protein S24e signature
+PDOC00601  1  Ribosomal protein S26e signature
+PDOC00898  1  Ribosomal protein S27e signature
+PDOC00743  1  Ribosomal protein S28e signature
+PDOC00474  1  Ribosomal protein S3 signature
+PDOC00917  1  Ribosomal protein S3Ae signature
+PDOC00549  1  Ribosomal protein S4 signature
+PDOC00457  1  Ribosomal protein S4e signature
+PDOC00505  2  Ribosomal protein S5 signature and profile
+PDOC00805  1  Ribosomal protein S6 signature
+PDOC00500  1  Ribosomal protein S6e signature
+PDOC00051  1  Ribosomal protein S7 signature
+PDOC00730  1  Ribosomal protein S7e signature
+PDOC00052  1  Ribosomal protein S8 signature
+PDOC00918  1  Ribosomal protein S8e signature
+PDOC00311  1  Ribosomal protein S9 signature
+PDOC00871  1  Ribosomal RNA adenine dimethylases signature
+PDOC01023  1  Ribosome-binding factor A signature
+PDOC00142  1  Ribulose bisphosphate carboxylase large chain active site
+PDOC00833  2  Ribulose-phosphate 3-epimerase family signatures
+PDOC00177  1  Rieske [2Fe-2S] iron-sulfur domain profile
+PDOC51789  1  RIG-I-like receptor (RLR) C-terminal regulatory (CTR) domain profile
+PDOC51386  1  RINT1/TIP20 domain profile
+PDOC00958  1  RIO1/ZK632.3/MJ0444 family signature
+PDOC00869  1  Rlu family of pseudouridine synthase signature
+PDOC00989  1  RNA 3'-terminal phosphate cyclase signature
+PDOC00945  2  RNA methyltransferase trmA family signatures
+PDOC00896  1  RNA polymerases beta chain signature
+PDOC00411  1  RNA polymerases D / 30 to 40 Kd subunits signature
+PDOC00854  1  RNA polymerases H / 23 Kd subunits signature
+PDOC00855  1  RNA polymerases K / 14 to 18 Kd subunits signature
+PDOC00889  1  RNA polymerases L / 13 to 16 Kd subunits signature
+PDOC00790  1  RNA polymerases M / 15 Kd subunits signature
+PDOC00856  1  RNA polymerases N / 8 Kd subunits signature
+PDOC50507  6  RNA-directed RNA polymerase catalytic domain profiles
+PDOC51472  1  RNA-recognition motif (RRM) Nup35-type domain profile
+PDOC00866  1  ROK family signature
+PDOC51073  1  RPEL repeat profile
+PDOC51071  1  RpiR-type HTH domain profile
+PDOC51153  1  RPW8 domain profile
+PDOC01035  2  Rrf2-type HTH domain profile
+PDOC51849  1  RsgI N-terminal anti-sigma domain profile
+PDOC00998  1  RsmI AdoMet-dependent methyltransferase protein family signature
+PDOC00885  1  Rsu family of pseudouridine synthase signature
+PDOC51728  1  Rtt109-type histone acetyltransferase (HAT) domain profile
+PDOC00179  1  Rubredoxin signature
+PDOC50903  1  Rubredoxin-like domain profile
+PDOC50826  1  RUN domain profile
+PDOC51062  1  Runt domain profile
+PDOC50908  1  RWD domain profile
+PDOC51519  1  RWP-RK domain profile
+PDOC00275  1  S-100/ICaBP type calcium binding protein signature
+PDOC00603  2  S-adenosyl-L-homocysteine hydrolase signatures
+PDOC01038  1  S-adenosylmethionine decarboxylase signature
+PDOC00369  2  S-adenosylmethionine synthase signatures
+PDOC00823  1  S-layer homology (SLH) domain profile
+PDOC50126  2  S1 domain profiles
+PDOC50889  1  S4 RNA-binding domain profile
+PDOC50275  1  Sac phosphatase domain profile
+PDOC00810  2  SAICAR synthetase signatures
+PDOC50105  1  SAM domain profile
+PDOC50864  1  SAND domain profile
+PDOC51293  1  SANT domain profile
+PDOC50800  1  SAP motif profile
+PDOC51110  1  Saposin A-type domain profile
+PDOC50015  1  Saposin B-type domain profile
+PDOC50951  1  SARAH domain profile
+PDOC51505  1  SCA7 domain profile
+PDOC50804  1  SCAN box profile
+PDOC60028  1  Scorpion calcine family signature
+PDOC51200  1  Scorpion short toxin chloride channel inhibitor subfamily profile
+PDOC00875  1  Scorpion short toxins signature
+PDOC50024  1  SEA domain profile
+PDOC50190  1  SEC7 domain profile
+PDOC01016  2  SecA family signature and profile
+PDOC00338  1  Secretoglobin (SCGB) family profile
+PDOC51695  1  Sedolisin domain profile
+PDOC51534  1  SEFIR domain profile
+PDOC51004  1  Sema domain profile
+PDOC00282  1  Seminal vesicle protein I repeats signature
+PDOC00446  1  Seminal vesicle protein II repeats signature
+PDOC51399  1  SEP domain profile
+PDOC51700  1  SEPARIN core domain profile
+PDOC51719  1  Septin-type guanine nucleotide-binding (G) domain profile
+PDOC50099  20 Sequence regions enriched in a particular amino acids
+PDOC00122  2  Serine carboxypeptidases, active sites
+PDOC00090  1  Serine hydroxymethyltransferase pyridoxal-phosphate attachment site
+PDOC00125  3  Serine proteases, subtilase family, active sites
+PDOC00124  3  Serine proteases, trypsin family, signatures and profile
+PDOC00571  2  Serine proteases, V8 family, active sites
+PDOC00149  1  Serine/threonine dehydratases pyridoxal-phosphate attachment site
+PDOC00115  1  Serine/threonine specific protein phosphatases signature
+PDOC00256  1  Serpins signature
+PDOC51053  1  SERTA domain profile
+PDOC00762  1  Serum amyloid A proteins signature
+PDOC51518  1  SGF29 C-terminal domain profile
+PDOC51048  1  SGS domain profile
+PDOC51781  1  SH3b domain profile
+PDOC00248  1  Shiga/ricin ribosomal inactivating toxins active site signature
+PDOC00868  1  Shikimate kinase signature
+PDOC51670  1  ShKT domain profile
+PDOC01053  1  Short hematopoietin receptor family 1 signature
+PDOC01054  1  Short hematopoietin receptor family 2 signature
+PDOC00060  1  Short-chain dehydrogenases/reductases family signature
+PDOC00593  3  Sigma-54 factors family signatures and profile
+PDOC00579  4  Sigma-54 interaction domain signatures and profile
+PDOC00814  1  Sigma-70 factors ECF subfamily signature
+PDOC00592  2  Sigma-70 factors family signatures
+PDOC00418  3  Signal peptidases I signatures
+PDOC00669  1  Signal peptidases II signature
+PDOC51500  1  Sin domain profile
+PDOC51302  1  Single-minded C-terminal domain profile
+PDOC00602  1  Single-strand binding (SSB) domain profile
+PDOC50305  1  Sirtuin catalytic domain profile
+PDOC51464  1  SIS domain profile
+PDOC00334  3  Site-specific recombinase catalytic domain signatures and profile
+PDOC00870  1  SLC26A transporters signature
+PDOC00434  2  Small cytokines (intercrine/chemokine) signatures
+PDOC51417  8  Small GTPase family profiles
+PDOC00791  1  Small heat shock protein (sHSP) domain profile
+PDOC00355  1  Small hydrophilic plant seed proteins signature
+PDOC00276  2  Small, acid-soluble spore proteins, alpha/beta type, signatures
+PDOC50828  1  Smr domain profile
+PDOC00245  1  Snake toxins signature
+PDOC50225  1  SOCS box domain profile
+PDOC00328  2  Sodium and potassium ATPases beta subunits signatures
+PDOC00681  1  Sodium:alanine symporter family signature
+PDOC00591  2  Sodium:dicarboxylate symporter family signatures
+PDOC00680  1  Sodium:galactoside symporter family signature
+PDOC00533  3  Sodium:neurotransmitter symporter family signatures and profile
+PDOC00429  3  Sodium:solute symporter family signatures and profile
+PDOC00978  1  Sodium:sulfate symporter family signature
+PDOC50831  1  SoHo domain profile
+PDOC50404  2  Soluble glutathione S-transferase N- and C-terminal domain profiles
+PDOC00189  1  Solute carrier (Solcar) repeat profile
+PDOC00453  2  Somatomedin B (SMB) domain signature and profile
+PDOC00239  2  Somatotropin, prolactin and related hormones signatures
+PDOC51516  1  Sox C-terminal domain profile
+PDOC00255  1  Soybean trypsin inhibitor (Kunitz) protease inhibitors family signature
+PDOC00758  2  Spermadhesins family signatures
+PDOC60029  1  Spider toxin CSTX family signature
+PDOC50917  1  SPOC domain profile
+PDOC51494  1  SpoIVB peptidase domain profile
+PDOC51020  1  Spondin domain profile
+PDOC51724  1  SPOR domain profile
+PDOC51740  1  SpoVT-AbrB domain profile
+PDOC51227  1  Sprouty (SPR) domain profile
+PDOC51382  1  SPX domain profile
+PDOC00802  2  Squalene and phytoene synthases signatures
+PDOC00258  1  Squash family of serine protease inhibitors signature
+PDOC50001  1  Src homology 2 (SH2) domain profile
+PDOC50002  1  Src homology 3 (SH3) domain profile
+PDOC00348  2  SRCR domain signature and profile
+PDOC00272  1  SRP54-type proteins GTP-binding domain signature
+PDOC01021  1  SsrA-binding protein
+PDOC00353  1  Staphylocoagulase repeat signature
+PDOC00250  2  Staphylococcal enterotoxins / Streptococcal pyrogenic exotoxins signatures
+PDOC50848  1  START domain profile
+PDOC50801  1  STAS domain profile
+PDOC00487  3  Stathmin family signatures and stathmin-like (SLD) domain profile
+PDOC51312  3  Steadiness box, VPS28 N-terminal and VPS37 C-terminal domains profiles
+PDOC50244  1  Steroid 5-alpha reductase C-terminal domain profile
+PDOC00780  2  Sterol reductase family signatures
+PDOC50156  1  Sterol-sensing domain (SSD) profile
+PDOC51070  1  Stonin homology domain (SHD) profile
+PDOC00766  1  Streptomyces subtilisin-type inhibitors signature
+PDOC00596  1  Stress-induced proteins SRP1/TIP1 family signature
+PDOC51502  1  Stress-response A/B barrel domain profile
+PDOC51425  1  Stromalin conservative (SCD) domain profile
+PDOC00767  2  Succinate dehydrogenase cytochrome b subunit signatures
+PDOC50228  1  SUEL-type lectin domain profile
+PDOC00190  2  Sugar transport proteins signatures
+PDOC00117  2  Sulfatases signatures
+PDOC51469  1  SUN domain profile
+PDOC51192  3  Superfamilies 1 and 2 helicase domain profiles
+PDOC51206  2  Superfamily 3 helicase domain profile
+PDOC51199  1  Superfamily 4 helicase domain profile
+PDOC01040  1  SURF1 family profile
+PDOC01041  1  SURF4 family signature
+PDOC00298  1  Surfactant associated polypeptide SP-C palmitoylation sites
+PDOC50128  1  SURP motif repeat profile
+PDOC50923  1  Sushi/CCP/SCR domain profile
+PDOC51673  1  SUZ domain profile
+PDOC50934  1  SWIRM domain profile
+PDOC00345  2  Synapsins signatures
+PDOC00368  1  Synaptobrevin signature
+PDOC00525  1  Synaptophysin / synaptoporin signature
+PDOC51847  1  Synaptotagmin-like mitochondrial lipid-binding proteins (SMP) domain profile
+PDOC00745  1  Syndecans signature
+PDOC00709  1  Syntaxin / epimorphin family signature
+PDOC00972  3  T-box domain signatures and profile
+PDOC50192  1  t-SNARE coiled-coil homology domain profile
+PDOC00240  1  Tachykinin family signature
+PDOC51119  1  TAFH/NHR1 domain profile
+PDOC51281  1  TAP C-terminal (TAP-C) domain profile
+PDOC00936  1  TatC family signature
+PDOC00836  3  TatD deoxyribonuclease family
+PDOC00201  2  Tau and MAP proteins tubulin-binding repeat signature and profile
+PDOC50086  1  TBC/rab GAP domain profile
+PDOC51369  1  TCP domain profile
+PDOC00479  2  TEA domain signature and profile
+PDOC51361  1  Teneurin N-terminal domain profile
+PDOC51181  2  Tensin phosphatase and C2 domain profiles
+PDOC51226  1  TEP1 N-terminal repeat profile
+PDOC00825  1  Terpene synthases signature
+PDOC00830  2  TetR-type HTH domain signature and profile
+PDOC00316  2  Tetrahydrobiopterin-dependent aromatic amino acid hydroxylase family signature and profile
+PDOC00616  2  Tetrahydrofolate dehydrogenase/cyclohydrolase signatures
+PDOC51344  1  TFE/IIEalpha-type HTH domain profile
+PDOC51351  1  TFIIE beta central core DNA-binding domain profile
+PDOC51321  1  TFIIS central domain profile
+PDOC51319  1  TFIIS N-terminal domain profile
+PDOC51364  1  TGF-beta binding (TB) domain profile
+PDOC00223  2  TGF-beta family signature and profile
+PDOC00286  2  Thaumatin family signature and profile
+PDOC00865  3  Thermonuclease domain signatures and profile
+PDOC00166  1  Thiamine pyrophosphate enzymes signature
+PDOC00436  1  Thiol-activated cytolysins signature
+PDOC00092  3  Thiolases signatures
+PDOC00172  2  Thioredoxin family active site signature and domain profile
+PDOC51236  1  Thrombospondin C-terminal domain profile
+PDOC50092  1  Thrombospondin type-1 (TSP1) repeat profile
+PDOC51234  1  Thrombospondin type-3 (TSP3) repeat profile
+PDOC51165  1  THUMP domain profile
+PDOC00557  1  Thymidine and pyrimidine-nucleoside phosphorylases signature
+PDOC00524  1  Thymidine kinase cellular-type signature
+PDOC01034  1  Thymidylate kinase signature
+PDOC00086  1  Thymidylate synthase active site
+PDOC00433  1  Thymosin beta-4 family signature
+PDOC00377  2  Thyroglobulin type-1 domain signature and profile
+PDOC51320  1  Tify domain profile
+PDOC50104  1  TIR domain profile
+PDOC00541  1  Tissue factor signature
+PDOC00260  1  Tissue inhibitors of metalloproteinases signature
+PDOC50922  1  TLC domain profile
+PDOC00224  2  TNF family signature and profile
+PDOC00561  2  TNFR/NGFR family cysteine-rich region signature and profile
+PDOC00354  2  TonB-dependent receptor proteins signatures
+PDOC50880  1  Toprim domain profile
+PDOC50005  2  TPR repeat profiles
+PDOC00973  1  Tpx family signature
+PDOC50926  1  TRAM domain profile
+PDOC00741  2  Transaldolase signatures
+PDOC00624  1  Transcription factor TFIIB repeat signature
+PDOC00303  1  Transcription factor TFIID repeat signature
+PDOC00775  1  Transcription termination factor nusG signature
+PDOC00182  4  Transferrin-like domain signatures and profile
+PDOC00473  1  Transglutaminases active site
+PDOC00635  2  Transketolase signatures
+PDOC00862  1  Translation initiation factor SUI1 profile
+PDOC00273  2  Translational (tr)-type guanine nucleotide-binding (G) domain signature and profile
+PDOC00768  3  Translationally controlled tumor protein (TCTP) domain signatures and profile
+PDOC00371  1  Transmembrane 4 family signature
+PDOC00801  1  Transposases, IS30 family, signature
+PDOC00770  1  Transposases, Mutator family, signature
+PDOC00617  2  Transthyretin signatures
+PDOC00717  2  Trehalase signatures
+PDOC00155  2  Triosephosphate isomerase (TIM) family signature and profile
+PDOC50211  4  Tripartite DENN domain profiles
+PDOC51709  1  TrmE-type guanine nucleotide-binding (G) domain profile
+PDOC50886  1  tRNA-binding domain profile
+PDOC00290  1  Tropomyosins signature
+PDOC50988  1  TROVE domain profile
+PDOC00574  3  Trp-Asp (WD-40) repeats signature and profiles
+PDOC50984  1  TRUD domain profile
+PDOC00151  1  Tryptophan synthase alpha chain signature
+PDOC00152  1  Tryptophan synthase beta chain pyridoxal-phosphate attachment site
+PDOC01022  2  TsaA-like domain signature and profile
+PDOC00991  1  TSC-22 / dip / bun family signature
+PDOC51221  1  TTL domain profile
+PDOC00923  2  Tub family signatures
+PDOC00199  1  Tubulin subunits alpha, beta, and gamma signature
+PDOC00200  1  Tubulin-beta mRNA autoregulation signal
+PDOC50304  1  Tudor domain profile
+PDOC51318  1  Twin arginine translocation (Tat) signal profile
+PDOC00174  1  Type-1 copper (blue) proteins signature
+PDOC00398  2  Tyrosinase signatures
+PDOC00007  1  Tyrosine kinase phosphorylation site
+PDOC00323  4  Tyrosine specific protein phosphatases signature and profiles
+PDOC51698  1  U-box domain profile
+PDOC00727  1  UbiA prenyltransferase family signature
+PDOC00911  2  ubiE/COQ5 methyltransferase family signatures
+PDOC01008  1  ubiH/COQ6 monooxygenase family signature
+PDOC00127  1  Ubiquitin carboxyl-terminal hydrolases family 1 cysteine active site
+PDOC00271  2  Ubiquitin domain signature and profile
+PDOC00750  3  Ubiquitin specific protease (USP) domain signatures and profile
+PDOC00463  2  Ubiquitin-activating enzyme signatures
+PDOC50030  1  Ubiquitin-associated domain (UBA) profile
+PDOC00163  2  Ubiquitin-conjugating enzymes signature and profile
+PDOC50330  1  Ubiquitin-interacting motif (UIM) domain profile
+PDOC50600  1  Ubiquitin-like protease family profile
+PDOC50033  1  UBX domain profile
+PDOC00359  1  UDP-glycosyltransferases signature
+PDOC51322  1  UEV domain profile
+PDOC51497  1  UMA domain profile
+PDOC50173  1  UmuC domain profile
+PDOC00931  1  Uncharacterized protein family UPF0001 signature
+PDOC00959  1  Uncharacterized protein family UPF0003 signature
+PDOC00943  1  Uncharacterized protein family UPF0012 signature
+PDOC00934  1  Uncharacterized protein family UPF0016 signature
+PDOC00872  1  Uncharacterized protein family UPF0017 signature
+PDOC00969  1  Uncharacterized protein family UPF0020 signature
+PDOC00971  1  Uncharacterized protein family UPF0021 signature
+PDOC00974  1  Uncharacterized protein family UPF0023 signature
+PDOC00975  1  Uncharacterized protein family UPF0024 signature
+PDOC00976  1  Uncharacterized protein family UPF0025 signature
+PDOC00990  1  Uncharacterized protein family UPF0027 signature
+PDOC00951  1  Uncharacterized protein family UPF0028 signature
+PDOC00707  1  Uncharacterized protein family UPF0029 signature
+PDOC00884  1  Uncharacterized protein family UPF0033 signature
+PDOC00874  1  Uncharacterized protein family UPF0034 signature
+PDOC00994  1  Uncharacterized protein family UPF0036 signature
+PDOC01018  1  Uncharacterized protein family UPF0047 signature
+PDOC01010  1  Uncharacterized protein family UPF0054 signature
+PDOC01013  1  Uncharacterized protein family UPF0057 signature
+PDOC01024  1  Uncharacterized protein family UPF0067 signature
+PDOC00838  1  Uncharacterized protein family UPF0076 signature
+PDOC01006  1  Uncharacterized protein family UPF0758 signature
+PDOC00817  1  Undecaprenyl pyrophosphate synthase family signature
+PDOC00121  1  Uracil-DNA glycosylase signature
+PDOC00133  3  Urease domain signatures and profile
+PDOC00315  1  Uricase signature
+PDOC00947  1  Urocanase signature
+PDOC00656  2  Uroporphyrin-III C-methyltransferase signatures
+PDOC00705  2  Uroporphyrinogen decarboxylase signatures
+PDOC00757  1  Urotensin II signature
+PDOC50151  1  UVR domain profile
+PDOC50165  1  UvrC family homology region profile
+PDOC51198  2  UvrD-like DNA helicase domain profiles
+PDOC50892  1  v-SNARE coiled-coil homology domain profile
+PDOC51778  1  VASt domain profile
+PDOC51821  1  Velvet domain profile
+PDOC00180  1  Vertebrate metallothioneins signature
+PDOC51717  1  Very large inducible GTPase (VLIG)-type guanine nucleotide-binding (G) domain profile
+PDOC50179  1  VHS domain profile
+PDOC51819  1  Vicinal oxygen chelate (VOC) domain profile
+PDOC00568  2  Vinculin family signatures
+PDOC00211  1  Visual pigments (opsins) retinal binding site
+PDOC51468  1  VIT domain profile
+PDOC51211  1  Vitellogenin domain profile
+PDOC51137  1  VM domain profile
+PDOC51310  1  VPS28 C-terminal domain profile
+PDOC51205  1  VPS9 domain profile
+PDOC50234  1  VWFA domain profile
+PDOC00928  2  VWFC domain signature and profile
+PDOC51233  1  VWFD domain profile
+PDOC51363  1  W2 domain profile
+PDOC51136  1  WAC domain profile
+PDOC00026  1  WAP-type 'four-disulfide core' domain profile
+PDOC51271  1  WAPL domain profile
+PDOC50229  1  WH1 domain profile
+PDOC51082  1  WH2 domain profile
+PDOC00614  2  WHEP-TRS domain signature and profile
+PDOC50814  1  WIF domain profile
+PDOC51397  1  WLM domain profile
+PDOC00219  1  Wnt-1 family signature
+PDOC51667  1  WRC domain profile
+PDOC50811  1  WRKY domain profile
+PDOC51212  1  WSC domain profile
+PDOC50020  2  WW/rsp5/WWP domain signature and profile
+PDOC50918  1  WWE domain profile
+PDOC00860  1  Xanthine/uracil permeases family signature
+PDOC51389  1  Xin repeat profile
+PDOC00611  2  XPA protein signatures
+PDOC00658  2  XPG protein signatures
+PDOC51827  1  XRN2-binding (XTBD) domain profile
+PDOC00156  1  Xylose isomerase family profile
+PDOC51664  1  YcaO domain profile
+PDOC51648  1  YcgL domain profile
+PDOC51015  1  YDG domain profile
+PDOC00718  2  Yeast PIR proteins repeats signature and profile
+PDOC51037  1  YEATS domain profile
+PDOC51792  1  Yippee domain profile
+PDOC00806  3  YjeF C-terminal domain signatures and profile
+PDOC51385  1  YjeF N-terminal domain profile
+PDOC00883  1  YrdC-like domain profile
+PDOC50882  1  YTH domain profile
+PDOC00123  2  Zinc carboxypeptidases, zinc-binding regions signatures
+PDOC51036  1  Zinc finger A20-type profile
+PDOC51039  1  Zinc finger AN1-type profile
+PDOC50119  1  Zinc finger B-box-type profile
+PDOC50808  1  Zinc finger BED-type profile
+PDOC51113  1  Zinc finger Btk-type profile
+PDOC51799  1  Zinc finger C2H2 AKAP95-type profile
+PDOC00028  2  Zinc finger C2H2-type domain signature and profile
+PDOC51807  1  Zinc finger C2HC baculovirus (BV)-type profile
+PDOC51804  1  Zinc finger C2HC LYAR-type profile
+PDOC51803  1  Zinc finger C2HC RNF-type profile
+PDOC50103  1  Zinc finger C3H1-type profile
+PDOC51810  1  Zinc finger CCHC FOG-type profile
+PDOC51811  1  Zinc finger CCHC HIVEP-type profile
+PDOC51801  1  Zinc finger CCHC NOA-type profile
+PDOC50158  1  Zinc finger CCHC-type profile
+PDOC51802  1  Zinc finger CCHHC-type profile
+PDOC51800  1  Zinc finger CHHC U11-48K-type profile
+PDOC51266  2  Zinc finger CHY-type and CTCHY-type profiles
+PDOC51050  1  Zinc finger CW-type profile
+PDOC51058  1  Zinc finger CXXC-type profile
+PDOC51265  1  Zinc finger Dbf4-type profile
+PDOC51501  1  Zinc finger DNL-type profile
+PDOC50884  2  Zinc finger Dof-type signature and profile
+PDOC51074  1  Zinc finger DPH-type profile
+PDOC51024  1  Zinc finger FCS-type profile
+PDOC51795  1  Zinc finger FLZ-type profile
+PDOC50178  1  Zinc finger FYVE/FYVE-related type profile
+PDOC51083  1  Zinc finger HIT-type profile
+PDOC50876  1  Zinc finger integrase-type profile
+PDOC51341  1  Zinc finger large T-antigen (T-ag) D1-type profile
+PDOC50171  1  Zinc finger matrin-type profile
+PDOC50865  2  Zinc finger MYND-type signature and profile
+PDOC51522  1  Zinc finger nanos-type profile
+PDOC50016  2  Zinc finger PHD-type signature and profile
+PDOC00379  2  Zinc finger phorbol-ester/DAG-type signature and profile
+PDOC51765  1  Zinc finger RAG1-type profile
+PDOC50199  2  Zinc finger RanBP2-type signature and profile
+PDOC51292  1  Zinc finger RING-CH-type profile
+PDOC00449  2  Zinc finger RING-type signature and profile
+PDOC51479  1  Zinc finger RTR1-type profile
+PDOC51141  1  Zinc finger SBP-type profile
+PDOC51081  1  Zinc finger SIAH-type profile
+PDOC51044  1  Zinc finger SP-RING-type profile
+PDOC50966  1  Zinc finger SWIM-type profile
+PDOC50134  1  Zinc finger TAZ-type profile
+PDOC51134  1  Zinc finger TFIIB-type profile
+PDOC00383  2  Zinc finger TFIIS-type signature and profile
+PDOC50950  1  Zinc finger THAP-type profile
+PDOC50145  1  Zinc finger TRAF-type profile
+PDOC50271  1  Zinc finger UBP-type profile
+PDOC51157  1  Zinc finger UBR-type profile
+PDOC50135  2  Zinc finger ZZ-type signature and profile
+PDOC00058  2  Zinc-containing alcohol dehydrogenases signatures
+PDOC51523  1  Zinc-finger ZF-HD dimerization-type profile
+PDOC00378  2  Zn(2)-C6 fungal-type DNA-binding domain signature and profile
+PDOC00577  2  ZP domain signature and profile
+PDOC51145  1  ZU5 domain profile

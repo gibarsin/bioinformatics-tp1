@@ -3,6 +3,7 @@ Resolución de ejercicio 1 y 2 del TP Especial para la materia _Introducción a 
 ## Requisitos
 - Java 10
 - Maven 3
+- Emboss [Ejercicio 5]
 
 ## Cómo compilar el código
 Para compilar el código correr en la línea de comandos sobre la raíz del proyecto:
@@ -43,3 +44,13 @@ En caso de querer consultar por todos los patterns únicos, ejecutar:
 ```bash
 java -jar target/bio.jar 4 <fastaPath> b
 ```
+
+Ejercicio 5)
+En la raíz del proyecto dirigirse al directorio `Exercise5` que dentro contiene el script en bash 
+`Exercise5.sh`. Ejecutar:
+```bash
+./Exercise5.sh <fastaPath>
+```
+en donde <fastaPath\> es la secuencia de nucleótidos de la cuál se desea obtener los ORF y los dominios.
+La salida se encontrará en los archivos cuyo nombre es el mismo nombre que el del archivo pero con 
+extensión _.orf_ y _.patmatmotifs_.
